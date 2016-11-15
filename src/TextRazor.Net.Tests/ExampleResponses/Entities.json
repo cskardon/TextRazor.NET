@@ -1,0 +1,88 @@
+﻿{
+  "response": {
+    "language": "eng",
+    "languageIsReliable": true,
+    "entities": [
+      {
+        "id": 0,
+        "type": [ "Place", "PopulatedPlace", "Country" ],
+        "matchingTokens": [ 0 ],
+        "entityId": "Spain",
+        "freebaseTypes": [ "/business/employer", "/olympics/olympic_participating_country", "/location/country", "/travel/travel_destination", "/organization/organization_member", "/business/business_location", "/sports/sport_country", "/media_common/netflix_genre", "/periodicals/newspaper_circulation_area", "/military/military_combatant", "/symbols/flag_referent", "/book/book_subject", "/organization/organization_scope", "/location/administrative_division", "/location/dated_location", "/royalty/system_of_nobility", "/food/beer_country_region", "/location/location", "/biology/breed_origin", "/film/film_location", "/royalty/kingdom", "/government/governmental_jurisdiction", "/sports/sports_team_location", "/location/statistical_region", "/organization/organization_founder" ],
+        "confidenceScore": 5.048,
+        "wikiLink": "http://en.wikipedia.org/wiki/Spain",
+        "matchedText": "Spain",
+        "freebaseId": "/m/06mkj",
+        "relevanceScore": 0.1569,
+        "entityEnglishId": "Spain",
+        "startingPos": 0,
+        "endingPos": 5,
+        "wikidataId": "Q29"
+      },
+      {
+        "id": 1,
+        "type": [ "Agent", "Organisation", "Company" ],
+        "matchingTokens": [ 3 ],
+        "entityId": "Bankia",
+        "freebaseTypes": [ "/organization/organization", "/business/business_operation" ],
+        "confidenceScore": 3.47,
+        "wikiLink": "http://en.wikipedia.org/wiki/Bankia",
+        "matchedText": "Bankia",
+        "freebaseId": "/m/0gg58rr",
+        "relevanceScore": 0.1658,
+        "entityEnglishId": "Bankia",
+        "startingPos": 17,
+        "endingPos": 23,
+        "wikidataId": "Q806807"
+      },
+      {
+        "id": 2,
+        "matchingTokens": [ 20, 21 ],
+        "entityId": "Parent company",
+        "confidenceScore": 1.193,
+        "wikiLink": "http://en.wikipedia.org/wiki/Parent_company",
+        "matchedText": "parent company",
+        "freebaseId": "/m/047vm7x",
+        "relevanceScore": 0.1064,
+        "entityEnglishId": "Parent company",
+        "startingPos": 115,
+        "endingPos": 129,
+        "wikidataId": "Q1956113"
+      },
+      {
+        "id": 3,
+        "type": [ "Agent", "Organisation", "Company", "Airline" ],
+        "matchingTokens": [ 23, 24 ],
+        "entityId": "British Airways",
+        "freebaseTypes": [ "/organization/organization", "/aviation/aircraft_owner", "/travel/transport_operator", "/business/employer", "/business/issuer", "/business/business_operation", "/business/sponsor", "/aviation/airline", "/business/consumer_company" ],
+        "confidenceScore": 6.068,
+        "wikiLink": "http://en.wikipedia.org/wiki/British_Airways",
+        "matchedText": "British Airways",
+        "freebaseId": "/m/0198z",
+        "relevanceScore": 0.2328,
+        "entityEnglishId": "British Airways",
+        "startingPos": 133,
+        "endingPos": 148,
+        "wikidataId": "Q8766"
+      },
+      {
+        "id": 4,
+        "type": [ "Agent", "Organisation", "Company", "Airline" ],
+        "matchingTokens": [ 26 ],
+        "entityId": "Iberia (airline)",
+        "freebaseTypes": [ "/organization/organization_partnership", "/business/employer", "/business/business_operation", "/aviation/airline", "/aviation/aircraft_owner", "/organization/organization", "/business/issuer" ],
+        "confidenceScore": 4.953,
+        "wikiLink": "http://en.wikipedia.org/wiki/Iberia_(airline)",
+        "matchedText": "Iberia",
+        "freebaseId": "/m/0p87j",
+        "relevanceScore": 0.4131,
+        "entityEnglishId": "Iberia (airline)",
+        "startingPos": 153,
+        "endingPos": 159,
+        "wikidataId": "Q187972"
+      }
+    ]
+  },
+  "time": 0.006319,
+  "ok": true
+}

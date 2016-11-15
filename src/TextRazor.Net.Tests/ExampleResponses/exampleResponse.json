@@ -1,0 +1,2043 @@
+﻿{
+  "response": {
+    "language": "eng",
+    "languageIsReliable": true,
+    "entities": [
+      {
+        "id": 0,
+        "type": [ "Place", "PopulatedPlace", "Country" ],
+        "matchingTokens": [ 0 ],
+        "entityId": "Spain",
+        "freebaseTypes": [ "/business/employer", "/olympics/olympic_participating_country", "/location/country", "/travel/travel_destination", "/organization/organization_member", "/business/business_location", "/sports/sport_country", "/media_common/netflix_genre", "/periodicals/newspaper_circulation_area", "/military/military_combatant", "/symbols/flag_referent", "/book/book_subject", "/organization/organization_scope", "/location/administrative_division", "/location/dated_location", "/royalty/system_of_nobility", "/food/beer_country_region", "/location/location", "/biology/breed_origin", "/film/film_location", "/royalty/kingdom", "/government/governmental_jurisdiction", "/sports/sports_team_location", "/location/statistical_region", "/organization/organization_founder" ],
+        "confidenceScore": 5.048,
+        "wikiLink": "http://en.wikipedia.org/wiki/Spain",
+        "matchedText": "Spain",
+        "freebaseId": "/m/06mkj",
+        "relevanceScore": 0.1569,
+        "entityEnglishId": "Spain",
+        "startingPos": 0,
+        "endingPos": 5,
+        "wikidataId": "Q29"
+      },
+      {
+        "id": 1,
+        "type": [ "Agent", "Organisation", "Company" ],
+        "matchingTokens": [ 3 ],
+        "entityId": "Bankia",
+        "freebaseTypes": [ "/organization/organization", "/business/business_operation" ],
+        "confidenceScore": 3.47,
+        "wikiLink": "http://en.wikipedia.org/wiki/Bankia",
+        "matchedText": "Bankia",
+        "freebaseId": "/m/0gg58rr",
+        "relevanceScore": 0.1658,
+        "entityEnglishId": "Bankia",
+        "startingPos": 17,
+        "endingPos": 23,
+        "wikidataId": "Q806807"
+      },
+      {
+        "id": 2,
+        "matchingTokens": [ 20, 21 ],
+        "entityId": "Parent company",
+        "confidenceScore": 1.193,
+        "wikiLink": "http://en.wikipedia.org/wiki/Parent_company",
+        "matchedText": "parent company",
+        "freebaseId": "/m/047vm7x",
+        "relevanceScore": 0.1064,
+        "entityEnglishId": "Parent company",
+        "startingPos": 115,
+        "endingPos": 129,
+        "wikidataId": "Q1956113"
+      },
+      {
+        "id": 3,
+        "type": [ "Agent", "Organisation", "Company", "Airline" ],
+        "matchingTokens": [ 23, 24 ],
+        "entityId": "British Airways",
+        "freebaseTypes": [ "/organization/organization", "/aviation/aircraft_owner", "/travel/transport_operator", "/business/employer", "/business/issuer", "/business/business_operation", "/business/sponsor", "/aviation/airline", "/business/consumer_company" ],
+        "confidenceScore": 6.068,
+        "wikiLink": "http://en.wikipedia.org/wiki/British_Airways",
+        "matchedText": "British Airways",
+        "freebaseId": "/m/0198z",
+        "relevanceScore": 0.2328,
+        "entityEnglishId": "British Airways",
+        "startingPos": 133,
+        "endingPos": 148,
+        "wikidataId": "Q8766"
+      },
+      {
+        "id": 4,
+        "type": [ "Agent", "Organisation", "Company", "Airline" ],
+        "matchingTokens": [ 26 ],
+        "entityId": "Iberia (airline)",
+        "freebaseTypes": [ "/organization/organization_partnership", "/business/employer", "/business/business_operation", "/aviation/airline", "/aviation/aircraft_owner", "/organization/organization", "/business/issuer" ],
+        "confidenceScore": 4.953,
+        "wikiLink": "http://en.wikipedia.org/wiki/Iberia_(airline)",
+        "matchedText": "Iberia",
+        "freebaseId": "/m/0p87j",
+        "relevanceScore": 0.4131,
+        "entityEnglishId": "Iberia (airline)",
+        "startingPos": 153,
+        "endingPos": 159,
+        "wikidataId": "Q187972"
+      }
+    ],
+    "entailments": [
+      {
+        "id": 0,
+        "wordPositions": [ 2 ],
+        "entailedWords": [ "stricken" ],
+        "entailedTree": { "word": "stricken" },
+        "priorScore": 1,
+        "contextScore": 1,
+        "score": 1
+      },
+      {
+        "id": 1,
+        "wordPositions": [ 2 ],
+        "entailedWords": [ "distressed" ],
+        "entailedTree": { "word": "distressed" },
+        "priorScore": 0.006025,
+        "contextScore": -0.008587,
+        "score": 0.2171
+      },
+      {
+        "id": 2,
+        "wordPositions": [ 2 ],
+        "entailedWords": [ "devastated" ],
+        "entailedTree": { "word": "devastated" },
+        "priorScore": 0.002769,
+        "contextScore": 0.02607,
+        "score": 0.1658
+      },
+      {
+        "id": 3,
+        "wordPositions": [ 2 ],
+        "entailedWords": [ "troubled" ],
+        "entailedTree": { "word": "troubled" },
+        "priorScore": 0.003329,
+        "contextScore": 0.1264,
+        "score": 0.2172
+      },
+      {
+        "id": 4,
+        "wordPositions": [ 2 ],
+        "entailedWords": [ "battered" ],
+        "entailedTree": { "word": "battered" },
+        "priorScore": 0.004676,
+        "contextScore": 0.0577,
+        "score": 0.2166
+      },
+      {
+        "id": 5,
+        "wordPositions": [ 2 ],
+        "entailedWords": [ "damaged" ],
+        "entailedTree": { "word": "damaged" },
+        "priorScore": 0.0352,
+        "contextScore": -0.07299,
+        "score": 0.7749
+      },
+      {
+        "id": 6,
+        "wordPositions": [ 2 ],
+        "entailedWords": [ "crashed" ],
+        "entailedTree": { "word": "crashed" },
+        "priorScore": 0.003624,
+        "contextScore": -0.05442,
+        "score": 0.1507
+      },
+      {
+        "id": 7,
+        "wordPositions": [ 2 ],
+        "entailedWords": [ "sunken" ],
+        "entailedTree": { "word": "sunken" },
+        "priorScore": 0.03033,
+        "contextScore": 0.05343,
+        "score": 0.728
+      },
+      {
+        "id": 8,
+        "wordPositions": [ 2 ],
+        "entailedWords": [ "doomed" ],
+        "entailedTree": { "word": "doomed" },
+        "priorScore": 0.005326,
+        "contextScore": -0.08973,
+        "score": 0.1706
+      },
+      {
+        "id": 9,
+        "wordPositions": [ 2 ],
+        "entailedWords": [ "large" ],
+        "entailedTree": { "word": "large" },
+        "priorScore": 0.03229,
+        "contextScore": 0.4739,
+        "score": 0.9353
+      },
+      {
+        "id": 10,
+        "wordPositions": [ 2 ],
+        "entailedWords": [ "low" ],
+        "entailedTree": { "word": "low" },
+        "priorScore": 0.007009,
+        "contextScore": 0.1308,
+        "score": 0.2925
+      },
+      {
+        "id": 11,
+        "wordPositions": [ 2 ],
+        "entailedWords": [ "hit" ],
+        "entailedTree": { "word": "hit" },
+        "priorScore": 0.002666,
+        "contextScore": 0.02523,
+        "score": 0.1634
+      },
+      {
+        "id": 12,
+        "wordPositions": [ 4 ],
+        "entailedWords": [ "expect" ],
+        "entailedTree": { "word": "expect" },
+        "priorScore": 1,
+        "contextScore": 1,
+        "score": 1
+      },
+      {
+        "id": 13,
+        "wordPositions": [ 4 ],
+        "entailedWords": [ "surprise" ],
+        "entailedTree": { "word": "surprise" },
+        "priorScore": 0.00664,
+        "contextScore": -0.07328,
+        "score": 0.2035
+      },
+      {
+        "id": 14,
+        "wordPositions": [ 4 ],
+        "entailedWords": [ "discount" ],
+        "entailedTree": { "word": "discount" },
+        "priorScore": 0.001279,
+        "contextScore": 0.2174,
+        "score": 0.2125
+      },
+      {
+        "id": 15,
+        "wordPositions": [ 4 ],
+        "entailedWords": [ "consider" ],
+        "entailedTree": { "word": "consider" },
+        "priorScore": 0.03539,
+        "contextScore": -0.1171,
+        "score": 0.761
+      },
+      {
+        "id": 16,
+        "wordPositions": [ 4 ],
+        "entailedWords": [ "announce" ],
+        "entailedTree": { "word": "announce" },
+        "priorScore": 0.03795,
+        "contextScore": -0.1047,
+        "score": 0.817
+      },
+      {
+        "id": 17,
+        "wordPositions": [ 4 ],
+        "entailedWords": [ "receive" ],
+        "entailedTree": { "word": "receive" },
+        "priorScore": 0.0151,
+        "contextScore": -0.03961,
+        "score": 0.3862
+      },
+      {
+        "id": 18,
+        "wordPositions": [ 4 ],
+        "entailedWords": [ "provide" ],
+        "entailedTree": { "word": "provide" },
+        "priorScore": 0.009397,
+        "contextScore": -0.03513,
+        "score": 0.2739
+      },
+      {
+        "id": 19,
+        "wordPositions": [ 4 ],
+        "entailedWords": [ "unable" ],
+        "entailedTree": { "word": "unable" },
+        "priorScore": 0.06613,
+        "contextScore": 0.08524,
+        "score": 1.457
+      },
+      {
+        "id": 20,
+        "wordPositions": [ 4 ],
+        "entailedWords": [ "refuse" ],
+        "entailedTree": { "word": "refuse" },
+        "priorScore": 0.04348,
+        "contextScore": 0.02111,
+        "score": 0.9781
+      },
+      {
+        "id": 21,
+        "wordPositions": [ 4 ],
+        "entailedWords": [ "manage" ],
+        "entailedTree": { "word": "manage" },
+        "priorScore": 0.03339,
+        "contextScore": 0.2601,
+        "score": 0.8718
+      },
+      {
+        "id": 22,
+        "wordPositions": [ 4 ],
+        "entailedWords": [ "likely" ],
+        "entailedTree": { "word": "likely" },
+        "priorScore": 0.06973,
+        "contextScore": -0.06893,
+        "score": 1.467
+      },
+      {
+        "id": 23,
+        "wordPositions": [ 4 ],
+        "entailedWords": [ "enable" ],
+        "entailedTree": { "word": "enable" },
+        "priorScore": 0.04467,
+        "contextScore": -0.09815,
+        "score": 0.9542
+      },
+      {
+        "id": 24,
+        "wordPositions": [ 4 ],
+        "entailedWords": [ "demand" ],
+        "entailedTree": { "word": "demand" },
+        "priorScore": 0.01279,
+        "contextScore": 0.04085,
+        "score": 0.3721
+      },
+      {
+        "id": 25,
+        "wordPositions": [ 4 ],
+        "entailedWords": [ "decide" ],
+        "entailedTree": { "word": "decide" },
+        "priorScore": 0.0738,
+        "contextScore": -0.06907,
+        "score": 1.548
+      },
+      {
+        "id": 26,
+        "wordPositions": [ 4 ],
+        "entailedWords": [ "choose" ],
+        "entailedTree": { "word": "choose" },
+        "priorScore": 0.06648,
+        "contextScore": -0.04001,
+        "score": 1.414
+      },
+      {
+        "id": 27,
+        "wordPositions": [ 4 ],
+        "entailedWords": [ "assume" ],
+        "entailedTree": { "word": "assume" },
+        "priorScore": 0.03298,
+        "contextScore": -0.06116,
+        "score": 0.7351
+      },
+      {
+        "id": 28,
+        "wordPositions": [ 4 ],
+        "entailedWords": [ "claim" ],
+        "entailedTree": { "word": "claim" },
+        "priorScore": 0.03517,
+        "contextScore": -0.05593,
+        "score": 0.781
+      },
+      {
+        "id": 29,
+        "wordPositions": [ 4 ],
+        "entailedWords": [ "allow" ],
+        "entailedTree": { "word": "allow" },
+        "priorScore": 0.09938,
+        "contextScore": -0.04965,
+        "score": 2.068
+      },
+      {
+        "id": 30,
+        "wordPositions": [ 4 ],
+        "entailedWords": [ "take" ],
+        "entailedTree": { "word": "take" },
+        "priorScore": 0.03561,
+        "contextScore": 0.2196,
+        "score": 0.9
+      },
+      {
+        "id": 31,
+        "wordPositions": [ 4 ],
+        "entailedWords": [ "seek" ],
+        "entailedTree": { "word": "seek" },
+        "priorScore": 0.03694,
+        "contextScore": -0.07816,
+        "score": 0.8075
+      },
+      {
+        "id": 32,
+        "wordPositions": [ 4 ],
+        "entailedWords": [ "rely" ],
+        "entailedTree": { "word": "rely" },
+        "priorScore": 0.01004,
+        "contextScore": 0.03271,
+        "score": 0.314
+      },
+      {
+        "id": 33,
+        "wordPositions": [ 4 ],
+        "entailedWords": [ "plan" ],
+        "entailedTree": { "word": "plan" },
+        "priorScore": 0.02591,
+        "contextScore": 0.006187,
+        "score": 0.6207
+      },
+      {
+        "id": 34,
+        "wordPositions": [ 4 ],
+        "entailedWords": [ "hold" ],
+        "entailedTree": { "word": "hold" },
+        "priorScore": 0.01039,
+        "contextScore": 0.07687,
+        "score": 0.3385
+      },
+      {
+        "id": 35,
+        "wordPositions": [ 4 ],
+        "entailedWords": [ "help" ],
+        "entailedTree": { "word": "help" },
+        "priorScore": 0.04823,
+        "contextScore": 0.02252,
+        "score": 1.074
+      },
+      {
+        "id": 36,
+        "wordPositions": [ 4 ],
+        "entailedWords": [ "fear" ],
+        "entailedTree": { "word": "fear" },
+        "priorScore": 0.01006,
+        "contextScore": 0.08735,
+        "score": 0.3362
+      },
+      {
+        "id": 37,
+        "wordPositions": [ 4 ],
+        "entailedWords": [ "fail" ],
+        "entailedTree": { "word": "fail" },
+        "priorScore": 0.06525,
+        "contextScore": 0.005188,
+        "score": 1.407
+      },
+      {
+        "id": 38,
+        "wordPositions": [ 4 ],
+        "entailedWords": [ "face" ],
+        "entailedTree": { "word": "face" },
+        "priorScore": 0.00615,
+        "contextScore": 0.03223,
+        "score": 0.2359
+      },
+      {
+        "id": 39,
+        "wordPositions": [ 4 ],
+        "entailedWords": [ "cost" ],
+        "entailedTree": { "word": "cost" },
+        "priorScore": 0.007105,
+        "contextScore": 0.1038,
+        "score": 0.2836
+      },
+      {
+        "id": 40,
+        "wordPositions": [ 4 ],
+        "entailedWords": [ "able" ],
+        "entailedTree": { "word": "able" },
+        "priorScore": 0.1087,
+        "contextScore": -0.0784,
+        "score": 2.243
+      },
+      {
+        "id": 41,
+        "wordPositions": [ 4 ],
+        "entailedWords": [ "see" ],
+        "entailedTree": { "word": "see" },
+        "priorScore": 0.04593,
+        "contextScore": -0.06023,
+        "score": 0.9945
+      },
+      {
+        "id": 43,
+        "wordPositions": [ 6 ],
+        "entailedWords": [ "sell" ],
+        "entailedTree": { "word": "sell" },
+        "priorScore": 1,
+        "contextScore": 1,
+        "score": 1
+      },
+      {
+        "id": 44,
+        "wordPositions": [ 6 ],
+        "entailedWords": [ "commercialize" ],
+        "entailedTree": { "word": "commercialize" },
+        "priorScore": 0.000836,
+        "contextScore": 0.3614,
+        "score": 0.2613
+      },
+      {
+        "id": 45,
+        "wordPositions": [ 6 ],
+        "entailedWords": [ "manufacture" ],
+        "entailedTree": { "word": "manufacture" },
+        "priorScore": 0.03036,
+        "contextScore": 0.03653,
+        "score": 0.7219
+      },
+      {
+        "id": 46,
+        "wordPositions": [ 6 ],
+        "entailedWords": [ "distribute" ],
+        "entailedTree": { "word": "distribute" },
+        "priorScore": 0.03246,
+        "contextScore": 0.1134,
+        "score": 0.7946
+      },
+      {
+        "id": 47,
+        "wordPositions": [ 6 ],
+        "entailedWords": [ "liquidate" ],
+        "entailedTree": { "word": "liquidate" },
+        "priorScore": 0.002801,
+        "contextScore": 0.4634,
+        "score": 0.3414
+      },
+      {
+        "id": 48,
+        "wordPositions": [ 6 ],
+        "entailedWords": [ "transfer" ],
+        "entailedTree": { "word": "transfer" },
+        "priorScore": 0.01881,
+        "contextScore": 0.02682,
+        "score": 0.4869
+      },
+      {
+        "id": 49,
+        "wordPositions": [ 6 ],
+        "entailedWords": [ "purchase" ],
+        "entailedTree": { "word": "purchase" },
+        "priorScore": 0.09663,
+        "contextScore": 0.1858,
+        "score": 2.107
+      },
+      {
+        "id": 50,
+        "wordPositions": [ 6 ],
+        "entailedWords": [ "exchange" ],
+        "entailedTree": { "word": "exchange" },
+        "priorScore": 0.00501,
+        "contextScore": -0.05636,
+        "score": 0.1777
+      },
+      {
+        "id": 51,
+        "wordPositions": [ 6 ],
+        "entailedWords": [ "contract" ],
+        "entailedTree": { "word": "contract" },
+        "priorScore": 0.005238,
+        "contextScore": 0.1131,
+        "score": 0.25
+      },
+      {
+        "id": 52,
+        "wordPositions": [ 6 ],
+        "entailedWords": [ "trading" ],
+        "entailedTree": { "word": "trading" },
+        "priorScore": 0.0008386,
+        "contextScore": 0.3923,
+        "score": 0.2737
+      },
+      {
+        "id": 53,
+        "wordPositions": [ 6 ],
+        "entailedWords": [ "selling" ],
+        "entailedTree": { "word": "selling" },
+        "priorScore": 0.001662,
+        "contextScore": 0.1975,
+        "score": 0.2123
+      },
+      {
+        "id": 54,
+        "wordPositions": [ 6 ],
+        "entailedWords": [ "produce" ],
+        "entailedTree": { "word": "produce" },
+        "priorScore": 0.05892,
+        "contextScore": -0.04309,
+        "score": 1.261
+      },
+      {
+        "id": 55,
+        "wordPositions": [ 6 ],
+        "entailedWords": [ "include" ],
+        "entailedTree": { "word": "include" },
+        "priorScore": 0.04711,
+        "contextScore": 0.05474,
+        "score": 1.064
+      },
+      {
+        "id": 56,
+        "wordPositions": [ 6 ],
+        "entailedWords": [ "dispose" ],
+        "entailedTree": { "word": "dispose" },
+        "priorScore": 0.003508,
+        "contextScore": 0.1748,
+        "score": 0.2401
+      },
+      {
+        "id": 57,
+        "wordPositions": [ 6 ],
+        "entailedWords": [ "auction" ],
+        "entailedTree": { "word": "auction" },
+        "priorScore": 0.004248,
+        "contextScore": 0.106,
+        "score": 0.2274
+      },
+      {
+        "id": 58,
+        "wordPositions": [ 6 ],
+        "entailedWords": [ "acquire" ],
+        "entailedTree": { "word": "acquire" },
+        "priorScore": 0.05817,
+        "contextScore": 0.4216,
+        "score": 1.432
+      },
+      {
+        "id": 59,
+        "wordPositions": [ 6 ],
+        "entailedWords": [ "unload" ],
+        "entailedTree": { "word": "unload" },
+        "priorScore": 0.001172,
+        "contextScore": 0.291,
+        "score": 0.2398
+      },
+      {
+        "id": 60,
+        "wordPositions": [ 6 ],
+        "entailedWords": [ "supply" ],
+        "entailedTree": { "word": "supply" },
+        "priorScore": 0.01376,
+        "contextScore": 0.1673,
+        "score": 0.4421
+      },
+      {
+        "id": 61,
+        "wordPositions": [ 6 ],
+        "entailedWords": [ "retain" ],
+        "entailedTree": { "word": "retain" },
+        "priorScore": 0.01268,
+        "contextScore": 0.04037,
+        "score": 0.3697
+      },
+      {
+        "id": 62,
+        "wordPositions": [ 6 ],
+        "entailedWords": [ "retail" ],
+        "entailedTree": { "word": "retail" },
+        "priorScore": 0.0008887,
+        "contextScore": 0.344,
+        "score": 0.2554
+      },
+      {
+        "id": 63,
+        "wordPositions": [ 6 ],
+        "entailedWords": [ "resell" ],
+        "entailedTree": { "word": "resell" },
+        "priorScore": 0.005433,
+        "contextScore": 0.2,
+        "score": 0.2887
+      },
+      {
+        "id": 64,
+        "wordPositions": [ 6 ],
+        "entailedWords": [ "resale" ],
+        "entailedTree": { "word": "resale" },
+        "priorScore": 0.0004648,
+        "contextScore": 0.1229,
+        "score": 0.1585
+      },
+      {
+        "id": 65,
+        "wordPositions": [ 6 ],
+        "entailedWords": [ "redeem" ],
+        "entailedTree": { "word": "redeem" },
+        "priorScore": 0.001764,
+        "contextScore": 0.109,
+        "score": 0.1789
+      },
+      {
+        "id": 66,
+        "wordPositions": [ 6 ],
+        "entailedWords": [ "market" ],
+        "entailedTree": { "word": "market" },
+        "priorScore": 0.007433,
+        "contextScore": 0.6308,
+        "score": 0.501
+      },
+      {
+        "id": 67,
+        "wordPositions": [ 6 ],
+        "entailedWords": [ "handle" ],
+        "entailedTree": { "word": "handle" },
+        "priorScore": 0.007485,
+        "contextScore": -0.01895,
+        "score": 0.2421
+      },
+      {
+        "id": 68,
+        "wordPositions": [ 6 ],
+        "entailedWords": [ "export" ],
+        "entailedTree": { "word": "export" },
+        "priorScore": 0.01004,
+        "contextScore": 0.1062,
+        "score": 0.3433
+      },
+      {
+        "id": 69,
+        "wordPositions": [ 6 ],
+        "entailedWords": [ "divest" ],
+        "entailedTree": { "word": "divest" },
+        "priorScore": 0.004118,
+        "contextScore": 0.5044,
+        "score": 0.3841
+      },
+      {
+        "id": 70,
+        "wordPositions": [ 6 ],
+        "entailedWords": [ "trade" ],
+        "entailedTree": { "word": "trade" },
+        "priorScore": 0.007189,
+        "contextScore": 0.1932,
+        "score": 0.3211
+      },
+      {
+        "id": 71,
+        "wordPositions": [ 6 ],
+        "entailedWords": [ "stock" ],
+        "entailedTree": { "word": "stock" },
+        "priorScore": 0.001741,
+        "contextScore": 0.5954,
+        "score": 0.373
+      },
+      {
+        "id": 72,
+        "wordPositions": [ 6 ],
+        "entailedWords": [ "offer" ],
+        "entailedTree": { "word": "offer" },
+        "priorScore": 0.03918,
+        "contextScore": 0.1639,
+        "score": 0.9492
+      },
+      {
+        "id": 73,
+        "wordPositions": [ 6 ],
+        "entailedWords": [ "close" ],
+        "entailedTree": { "word": "close" },
+        "priorScore": 0.01272,
+        "contextScore": 0.1354,
+        "score": 0.4085
+      },
+      {
+        "id": 74,
+        "wordPositions": [ 6 ],
+        "entailedWords": [ "carry" ],
+        "entailedTree": { "word": "carry" },
+        "priorScore": 0.02029,
+        "contextScore": -0.04738,
+        "score": 0.4869
+      },
+      {
+        "id": 75,
+        "wordPositions": [ 6 ],
+        "entailedWords": [ "take" ],
+        "entailedTree": { "word": "take" },
+        "priorScore": 0.0417,
+        "contextScore": 0.07169,
+        "score": 0.9627
+      },
+      {
+        "id": 76,
+        "wordPositions": [ 6 ],
+        "entailedWords": [ "sale" ],
+        "entailedTree": { "word": "sale" },
+        "priorScore": 0.01802,
+        "contextScore": 0.2658,
+        "score": 0.5667
+      },
+      {
+        "id": 77,
+        "wordPositions": [ 6 ],
+        "entailedWords": [ "push" ],
+        "entailedTree": { "word": "push" },
+        "priorScore": 0.005906,
+        "contextScore": -0.07855,
+        "score": 0.1867
+      },
+      {
+        "id": 78,
+        "wordPositions": [ 6 ],
+        "entailedWords": [ "move" ],
+        "entailedTree": { "word": "move" },
+        "priorScore": 0.02562,
+        "contextScore": 0.001044,
+        "score": 0.6128
+      },
+      {
+        "id": 79,
+        "wordPositions": [ 6 ],
+        "entailedWords": [ "give" ],
+        "entailedTree": { "word": "give" },
+        "priorScore": 0.02593,
+        "contextScore": -0.06026,
+        "score": 0.5946
+      },
+      {
+        "id": 80,
+        "wordPositions": [ 6 ],
+        "entailedWords": [ "fail" ],
+        "entailedTree": { "word": "fail" },
+        "priorScore": 0.003409,
+        "contextScore": -0.009023,
+        "score": 0.1646
+      },
+      {
+        "id": 81,
+        "wordPositions": [ 6 ],
+        "entailedWords": [ "dump" ],
+        "entailedTree": { "word": "dump" },
+        "priorScore": 0.001287,
+        "contextScore": 0.09231,
+        "score": 0.1627
+      },
+      {
+        "id": 82,
+        "wordPositions": [ 6 ],
+        "entailedWords": [ "deal" ],
+        "entailedTree": { "word": "deal" },
+        "priorScore": 0.007915,
+        "contextScore": 0.3984,
+        "score": 0.4177
+      },
+      {
+        "id": 83,
+        "wordPositions": [ 6 ],
+        "entailedWords": [ "cede" ],
+        "entailedTree": { "word": "cede" },
+        "priorScore": 0.002295,
+        "contextScore": 0.1844,
+        "score": 0.2197
+      },
+      {
+        "id": 84,
+        "wordPositions": [ 6 ],
+        "entailedWords": [ "use" ],
+        "entailedTree": { "word": "use" },
+        "priorScore": 0.04218,
+        "contextScore": -0.1048,
+        "score": 0.9016
+      },
+      {
+        "id": 86,
+        "wordPositions": [ 6 ],
+        "entailedWords": [ "buy" ],
+        "entailedTree": { "word": "buy" },
+        "priorScore": 0.1068,
+        "contextScore": 0.1475,
+        "score": 2.295
+      },
+      {
+        "id": 87,
+        "wordPositions": [ 9 ],
+        "entailedWords": [ "vast" ],
+        "entailedTree": { "word": "vast" },
+        "priorScore": 1,
+        "contextScore": 1,
+        "score": 1
+      },
+      {
+        "id": 88,
+        "wordPositions": [ 9 ],
+        "entailedWords": [ "substantial" ],
+        "entailedTree": { "word": "substantial" },
+        "priorScore": 0.04554,
+        "contextScore": -0.1111,
+        "score": 0.9663
+      },
+      {
+        "id": 89,
+        "wordPositions": [ 9 ],
+        "entailedWords": [ "staggering" ],
+        "entailedTree": { "word": "staggering" },
+        "priorScore": 0.004302,
+        "contextScore": -0.03916,
+        "score": 0.1704
+      },
+      {
+        "id": 90,
+        "wordPositions": [ 9 ],
+        "entailedWords": [ "impressive" ],
+        "entailedTree": { "word": "impressive" },
+        "priorScore": 0.009432,
+        "contextScore": -0.09217,
+        "score": 0.2518
+      },
+      {
+        "id": 91,
+        "wordPositions": [ 9 ],
+        "entailedWords": [ "sprawling" ],
+        "entailedTree": { "word": "sprawling" },
+        "priorScore": 0.003871,
+        "contextScore": 0.01256,
+        "score": 0.1824
+      },
+      {
+        "id": 92,
+        "wordPositions": [ 9 ],
+        "entailedWords": [ "sizeable" ],
+        "entailedTree": { "word": "sizeable" },
+        "priorScore": 0.01273,
+        "contextScore": -0.06615,
+        "score": 0.3282
+      },
+      {
+        "id": 93,
+        "wordPositions": [ 9 ],
+        "entailedWords": [ "sizable" ],
+        "entailedTree": { "word": "sizable" },
+        "priorScore": 0.02152,
+        "contextScore": -0.06582,
+        "score": 0.5041
+      },
+      {
+        "id": 94,
+        "wordPositions": [ 9 ],
+        "entailedWords": [ "massive" ],
+        "entailedTree": { "word": "massive" },
+        "priorScore": 0.03395,
+        "contextScore": -0.08603,
+        "score": 0.7445
+      },
+      {
+        "id": 95,
+        "wordPositions": [ 9 ],
+        "entailedWords": [ "general" ],
+        "entailedTree": { "word": "general" },
+        "priorScore": 0.003905,
+        "contextScore": 0.02571,
+        "score": 0.1884
+      },
+      {
+        "id": 96,
+        "wordPositions": [ 9 ],
+        "entailedWords": [ "strong" ],
+        "entailedTree": { "word": "strong" },
+        "priorScore": 0.00605,
+        "contextScore": -0.02748,
+        "score": 0.21
+      },
+      {
+        "id": 97,
+        "wordPositions": [ 9 ],
+        "entailedWords": [ "entire" ],
+        "entailedTree": { "word": "entire" },
+        "priorScore": 0.04217,
+        "contextScore": -0.09496,
+        "score": 0.9053
+      },
+      {
+        "id": 98,
+        "wordPositions": [ 9 ],
+        "entailedWords": [ "small" ],
+        "entailedTree": { "word": "small" },
+        "priorScore": 0.05191,
+        "contextScore": -0.09054,
+        "score": 1.102
+      },
+      {
+        "id": 99,
+        "wordPositions": [ 9 ],
+        "entailedWords": [ "major" ],
+        "entailedTree": { "word": "major" },
+        "priorScore": 0.01087,
+        "contextScore": 0.0009603,
+        "score": 0.3177
+      },
+      {
+        "id": 100,
+        "wordPositions": [ 9 ],
+        "entailedWords": [ "large" ],
+        "entailedTree": { "word": "large" },
+        "priorScore": 0.1547,
+        "contextScore": -0.05897,
+        "score": 3.17
+      },
+      {
+        "id": 101,
+        "wordPositions": [ 9 ],
+        "entailedWords": [ "heavy" ],
+        "entailedTree": { "word": "heavy" },
+        "priorScore": 0.003534,
+        "contextScore": -0.04019,
+        "score": 0.1546
+      },
+      {
+        "id": 102,
+        "wordPositions": [ 9 ],
+        "entailedWords": [ "giant" ],
+        "entailedTree": { "word": "giant" },
+        "priorScore": 0.001202,
+        "contextScore": 0.2412,
+        "score": 0.2205
+      },
+      {
+        "id": 103,
+        "wordPositions": [ 9 ],
+        "entailedWords": [ "fixed" ],
+        "entailedTree": { "word": "fixed" },
+        "priorScore": 0.004741,
+        "contextScore": 0.03233,
+        "score": 0.2078
+      },
+      {
+        "id": 104,
+        "wordPositions": [ 9 ],
+        "entailedWords": [ "broad" ],
+        "entailedTree": { "word": "broad" },
+        "priorScore": 0.02389,
+        "contextScore": -0.09412,
+        "score": 0.5402
+      },
+      {
+        "id": 105,
+        "wordPositions": [ 9 ],
+        "entailedWords": [ "high" ],
+        "entailedTree": { "word": "high" },
+        "priorScore": 0.01766,
+        "contextScore": -0.1194,
+        "score": 0.4055
+      },
+      {
+        "id": 106,
+        "wordPositions": [ 9 ],
+        "entailedWords": [ "firm" ],
+        "entailedTree": { "word": "firm" },
+        "priorScore": 0.0003493,
+        "contextScore": 0.444,
+        "score": 0.2846
+      },
+      {
+        "id": 107,
+        "wordPositions": [ 9 ],
+        "entailedWords": [ "big" ],
+        "entailedTree": { "word": "big" },
+        "priorScore": 0.01542,
+        "contextScore": -0.1219,
+        "score": 0.3596
+      },
+      {
+        "id": 108,
+        "wordPositions": [ 10 ],
+        "entailedWords": [ "portfolio" ],
+        "entailedTree": { "word": "portfolio" },
+        "priorScore": 1,
+        "contextScore": 1,
+        "score": 1
+      },
+      {
+        "id": 109,
+        "wordPositions": [ 10 ],
+        "entailedWords": [ "investment" ],
+        "entailedTree": { "word": "investment" },
+        "priorScore": 0.02183,
+        "contextScore": 0.9091,
+        "score": 0.9003
+      },
+      {
+        "id": 110,
+        "wordPositions": [ 10 ],
+        "entailedWords": [ "business" ],
+        "entailedTree": { "word": "business" },
+        "priorScore": 0.01713,
+        "contextScore": 0.46,
+        "score": 0.6266
+      },
+      {
+        "id": 111,
+        "wordPositions": [ 10 ],
+        "entailedWords": [ "holding" ],
+        "entailedTree": { "word": "holding" },
+        "priorScore": 0.01718,
+        "contextScore": 0.5854,
+        "score": 0.6778
+      },
+      {
+        "id": 112,
+        "wordPositions": [ 10 ],
+        "entailedWords": [ "stock" ],
+        "entailedTree": { "word": "stock" },
+        "priorScore": 0.009958,
+        "contextScore": 0.8278,
+        "score": 0.6303
+      },
+      {
+        "id": 113,
+        "wordPositions": [ 10 ],
+        "entailedWords": [ "range" ],
+        "entailedTree": { "word": "range" },
+        "priorScore": 0.01049,
+        "contextScore": 0.217,
+        "score": 0.3966
+      },
+      {
+        "id": 114,
+        "wordPositions": [ 10 ],
+        "entailedWords": [ "asset" ],
+        "entailedTree": { "word": "asset" },
+        "priorScore": 0.02907,
+        "contextScore": 0.695,
+        "score": 0.9594
+      },
+      {
+        "id": 115,
+        "wordPositions": [ 10 ],
+        "entailedWords": [ "post" ],
+        "entailedTree": { "word": "post" },
+        "priorScore": 0.01619,
+        "contextScore": -0.01949,
+        "score": 0.4161
+      },
+      {
+        "id": 116,
+        "wordPositions": [ 10 ],
+        "entailedWords": [ "fund" ],
+        "entailedTree": { "word": "fund" },
+        "priorScore": 0.01424,
+        "contextScore": 0.4595,
+        "score": 0.5685
+      },
+      {
+        "id": 117,
+        "wordPositions": [ 12 ],
+        "entailedWords": [ "industrial" ],
+        "entailedTree": { "word": "industrial" },
+        "priorScore": 1,
+        "contextScore": 1,
+        "score": 1
+      },
+      {
+        "id": 118,
+        "wordPositions": [ 12 ],
+        "entailedWords": [ "entrepreneurial" ],
+        "entailedTree": { "word": "entrepreneurial" },
+        "priorScore": 0.00327,
+        "contextScore": 0.1005,
+        "score": 0.2056
+      },
+      {
+        "id": 119,
+        "wordPositions": [ 12 ],
+        "entailedWords": [ "manufacturing" ],
+        "entailedTree": { "word": "manufacturing" },
+        "priorScore": 0.02258,
+        "contextScore": 0.05331,
+        "score": 0.573
+      },
+      {
+        "id": 120,
+        "wordPositions": [ 12 ],
+        "entailedWords": [ "intellectual" ],
+        "entailedTree": { "word": "intellectual" },
+        "priorScore": 0.009543,
+        "contextScore": 0.01413,
+        "score": 0.2965
+      },
+      {
+        "id": 121,
+        "wordPositions": [ 12 ],
+        "entailedWords": [ "production" ],
+        "entailedTree": { "word": "production" },
+        "priorScore": 0.005145,
+        "contextScore": 0.004747,
+        "score": 0.2048
+      },
+      {
+        "id": 122,
+        "wordPositions": [ 12 ],
+        "entailedWords": [ "industries" ],
+        "entailedTree": { "word": "industries" },
+        "priorScore": 0.0003605,
+        "contextScore": 0.2372,
+        "score": 0.2021
+      },
+      {
+        "id": 123,
+        "wordPositions": [ 12 ],
+        "entailedWords": [ "enterprise" ],
+        "entailedTree": { "word": "enterprise" },
+        "priorScore": 0.003029,
+        "contextScore": 0.2135,
+        "score": 0.246
+      },
+      {
+        "id": 124,
+        "wordPositions": [ 12 ],
+        "entailedWords": [ "commercial" ],
+        "entailedTree": { "word": "commercial" },
+        "priorScore": 0.07164,
+        "contextScore": 0.2932,
+        "score": 1.65
+      },
+      {
+        "id": 125,
+        "wordPositions": [ 12 ],
+        "entailedWords": [ "collective" ],
+        "entailedTree": { "word": "collective" },
+        "priorScore": 0.004771,
+        "contextScore": 0.02627,
+        "score": 0.2059
+      },
+      {
+        "id": 126,
+        "wordPositions": [ 12 ],
+        "entailedWords": [ "important" ],
+        "entailedTree": { "word": "important" },
+        "priorScore": 0.03032,
+        "contextScore": 0.01346,
+        "score": 0.7117
+      },
+      {
+        "id": 127,
+        "wordPositions": [ 12 ],
+        "entailedWords": [ "developed" ],
+        "entailedTree": { "word": "developed" },
+        "priorScore": 0.006793,
+        "contextScore": -0.09438,
+        "score": 0.1981
+      },
+      {
+        "id": 128,
+        "wordPositions": [ 12 ],
+        "entailedWords": [ "corporate" ],
+        "entailedTree": { "word": "corporate" },
+        "priorScore": 0.01463,
+        "contextScore": 0.4802,
+        "score": 0.5846
+      },
+      {
+        "id": 129,
+        "wordPositions": [ 12 ],
+        "entailedWords": [ "property" ],
+        "entailedTree": { "word": "property" },
+        "priorScore": 0.0009593,
+        "contextScore": 0.5616,
+        "score": 0.3438
+      },
+      {
+        "id": 130,
+        "wordPositions": [ 12 ],
+        "entailedWords": [ "industry" ],
+        "entailedTree": { "word": "industry" },
+        "priorScore": 0.002907,
+        "contextScore": 0.167,
+        "score": 0.2249
+      },
+      {
+        "id": 131,
+        "wordPositions": [ 12 ],
+        "entailedWords": [ "economic" ],
+        "entailedTree": { "word": "economic" },
+        "priorScore": 0.03515,
+        "contextScore": 0.00621,
+        "score": 0.8055
+      },
+      {
+        "id": 132,
+        "wordPositions": [ 12 ],
+        "entailedWords": [ "business" ],
+        "entailedTree": { "word": "business" },
+        "priorScore": 0.01823,
+        "contextScore": 0.5273,
+        "score": 0.6756
+      },
+      {
+        "id": 133,
+        "wordPositions": [ 12 ],
+        "entailedWords": [ "various" ],
+        "entailedTree": { "word": "various" },
+        "priorScore": 0.04311,
+        "contextScore": -0.03735,
+        "score": 0.9472
+      },
+      {
+        "id": 134,
+        "wordPositions": [ 12 ],
+        "entailedWords": [ "several" ],
+        "entailedTree": { "word": "several" },
+        "priorScore": 0.04179,
+        "contextScore": -0.001928,
+        "score": 0.935
+      },
+      {
+        "id": 135,
+        "wordPositions": [ 12 ],
+        "entailedWords": [ "estate" ],
+        "entailedTree": { "word": "estate" },
+        "priorScore": 0.003321,
+        "contextScore": 0.4972,
+        "score": 0.3653
+      },
+      {
+        "id": 136,
+        "wordPositions": [ 12 ],
+        "entailedWords": [ "trade" ],
+        "entailedTree": { "word": "trade" },
+        "priorScore": 0.008195,
+        "contextScore": 0.2989,
+        "score": 0.3835
+      },
+      {
+        "id": 137,
+        "wordPositions": [ 12 ],
+        "entailedWords": [ "small" ],
+        "entailedTree": { "word": "small" },
+        "priorScore": 0.03465,
+        "contextScore": 0.1114,
+        "score": 0.8377
+      },
+      {
+        "id": 138,
+        "wordPositions": [ 12 ],
+        "entailedWords": [ "major" ],
+        "entailedTree": { "word": "major" },
+        "priorScore": 0.04192,
+        "contextScore": 0.1394,
+        "score": 0.9941
+      },
+      {
+        "id": 139,
+        "wordPositions": [ 12 ],
+        "entailedWords": [ "large" ],
+        "entailedTree": { "word": "large" },
+        "priorScore": 0.06311,
+        "contextScore": 0.4358,
+        "score": 1.536
+      },
+      {
+        "id": 141,
+        "wordPositions": [ 12 ],
+        "entailedWords": [ "many" ],
+        "entailedTree": { "word": "many" },
+        "priorScore": 0.04711,
+        "contextScore": -0.01329,
+        "score": 1.037
+      },
+      {
+        "id": 142,
+        "wordPositions": [ 12 ],
+        "entailedWords": [ "main" ],
+        "entailedTree": { "word": "main" },
+        "priorScore": 0.03127,
+        "contextScore": 0.02857,
+        "score": 0.7369
+      },
+      {
+        "id": 144,
+        "wordPositions": [ 13 ],
+        "entailedWords": [ "holding" ],
+        "entailedTree": { "word": "holding" },
+        "priorScore": 1,
+        "contextScore": 1,
+        "score": 1
+      },
+      {
+        "id": 145,
+        "wordPositions": [ 13 ],
+        "entailedWords": [ "portfolio" ],
+        "entailedTree": { "word": "portfolio" },
+        "priorScore": 0.00948,
+        "contextScore": 0.9695,
+        "score": 0.6774
+      },
+      {
+        "id": 146,
+        "wordPositions": [ 13 ],
+        "entailedWords": [ "ownership" ],
+        "entailedTree": { "word": "ownership" },
+        "priorScore": 0.01319,
+        "contextScore": 0.7947,
+        "score": 0.6817
+      },
+      {
+        "id": 147,
+        "wordPositions": [ 13 ],
+        "entailedWords": [ "holdings" ],
+        "entailedTree": { "word": "holdings" },
+        "priorScore": 0.009118,
+        "contextScore": 1,
+        "score": 0.7234
+      },
+      {
+        "id": 148,
+        "wordPositions": [ 13 ],
+        "entailedWords": [ "company" ],
+        "entailedTree": { "word": "company" },
+        "priorScore": 0.02487,
+        "contextScore": 0.7296,
+        "score": 0.8893
+      },
+      {
+        "id": 149,
+        "wordPositions": [ 13 ],
+        "entailedWords": [ "land" ],
+        "entailedTree": { "word": "land" },
+        "priorScore": 0.01503,
+        "contextScore": 0.24,
+        "score": 0.4966
+      },
+      {
+        "id": 150,
+        "wordPositions": [ 13 ],
+        "entailedWords": [ "farm" ],
+        "entailedTree": { "word": "farm" },
+        "priorScore": 0.009053,
+        "contextScore": 0.06983,
+        "score": 0.309
+      },
+      {
+        "id": 151,
+        "wordPositions": [ 15 ],
+        "entailedWords": [ "include" ],
+        "entailedTree": { "word": "include" },
+        "priorScore": 1,
+        "contextScore": 1,
+        "score": 1
+      },
+      {
+        "id": 152,
+        "wordPositions": [ 15 ],
+        "entailedWords": [ "incorporation" ],
+        "entailedTree": { "word": "incorporation" },
+        "priorScore": 0.0005711,
+        "contextScore": 0.1805,
+        "score": 0.1836
+      },
+      {
+        "id": 153,
+        "wordPositions": [ 15 ],
+        "entailedWords": [ "incorporated" ],
+        "entailedTree": { "word": "incorporated" },
+        "priorScore": 0.0003062,
+        "contextScore": 0.7451,
+        "score": 0.4042
+      },
+      {
+        "id": 154,
+        "wordPositions": [ 15 ],
+        "entailedWords": [ "incorporate" ],
+        "entailedTree": { "word": "incorporate" },
+        "priorScore": 0.01718,
+        "contextScore": 0.108,
+        "score": 0.4868
+      },
+      {
+        "id": 155,
+        "wordPositions": [ 15 ],
+        "entailedWords": [ "constitute" ],
+        "entailedTree": { "word": "constitute" },
+        "priorScore": 0.005242,
+        "contextScore": -0.01781,
+        "score": 0.1977
+      },
+      {
+        "id": 156,
+        "wordPositions": [ 15 ],
+        "entailedWords": [ "represent" ],
+        "entailedTree": { "word": "represent" },
+        "priorScore": 0.0166,
+        "contextScore": -0.002085,
+        "score": 0.4312
+      },
+      {
+        "id": 157,
+        "wordPositions": [ 15 ],
+        "entailedWords": [ "integrate" ],
+        "entailedTree": { "word": "integrate" },
+        "priorScore": 0.006384,
+        "contextScore": 0.05766,
+        "score": 0.2507
+      },
+      {
+        "id": 158,
+        "wordPositions": [ 15 ],
+        "entailedWords": [ "establish" ],
+        "entailedTree": { "word": "establish" },
+        "priorScore": 0.01415,
+        "contextScore": -0.09169,
+        "score": 0.3464
+      },
+      {
+        "id": 159,
+        "wordPositions": [ 15 ],
+        "entailedWords": [ "encompass" ],
+        "entailedTree": { "word": "encompass" },
+        "priorScore": 0.008179,
+        "contextScore": 0.1876,
+        "score": 0.3386
+      },
+      {
+        "id": 160,
+        "wordPositions": [ 15 ],
+        "entailedWords": [ "associate" ],
+        "entailedTree": { "word": "associate" },
+        "priorScore": 0.01521,
+        "contextScore": -0.1175,
+        "score": 0.3572
+      },
+      {
+        "id": 161,
+        "wordPositions": [ 15 ],
+        "entailedWords": [ "consider" ],
+        "entailedTree": { "word": "consider" },
+        "priorScore": 0.01207,
+        "contextScore": -0.0947,
+        "score": 0.3035
+      },
+      {
+        "id": 162,
+        "wordPositions": [ 15 ],
+        "entailedWords": [ "comprise" ],
+        "entailedTree": { "word": "comprise" },
+        "priorScore": 0.01946,
+        "contextScore": 0.01374,
+        "score": 0.4946
+      },
+      {
+        "id": 163,
+        "wordPositions": [ 15 ],
+        "entailedWords": [ "reflect" ],
+        "entailedTree": { "word": "reflect" },
+        "priorScore": 0.007947,
+        "contextScore": -0.07109,
+        "score": 0.2305
+      },
+      {
+        "id": 164,
+        "wordPositions": [ 15 ],
+        "entailedWords": [ "provide" ],
+        "entailedTree": { "word": "provide" },
+        "priorScore": 0.0425,
+        "contextScore": 0.09594,
+        "score": 0.9883
+      },
+      {
+        "id": 165,
+        "wordPositions": [ 15 ],
+        "entailedWords": [ "produce" ],
+        "entailedTree": { "word": "produce" },
+        "priorScore": 0.03898,
+        "contextScore": -0.003536,
+        "score": 0.8782
+      },
+      {
+        "id": 166,
+        "wordPositions": [ 15 ],
+        "entailedWords": [ "present" ],
+        "entailedTree": { "word": "present" },
+        "priorScore": 0.02007,
+        "contextScore": -0.0984,
+        "score": 0.462
+      },
+      {
+        "id": 167,
+        "wordPositions": [ 15 ],
+        "entailedWords": [ "listing" ],
+        "entailedTree": { "word": "listing" },
+        "priorScore": 0.000705,
+        "contextScore": 0.1361,
+        "score": 0.1685
+      },
+      {
+        "id": 168,
+        "wordPositions": [ 15 ],
+        "entailedWords": [ "involve" ],
+        "entailedTree": { "word": "involve" },
+        "priorScore": 0.02436,
+        "contextScore": -0.1232,
+        "score": 0.538
+      },
+      {
+        "id": 169,
+        "wordPositions": [ 15 ],
+        "entailedWords": [ "contain" ],
+        "entailedTree": { "word": "contain" },
+        "priorScore": 0.05012,
+        "contextScore": -0.03394,
+        "score": 1.089
+      },
+      {
+        "id": 170,
+        "wordPositions": [ 15 ],
+        "entailedWords": [ "consist" ],
+        "entailedTree": { "word": "consist" },
+        "priorScore": 0.05597,
+        "contextScore": -0.07673,
+        "score": 1.189
+      },
+      {
+        "id": 171,
+        "wordPositions": [ 15 ],
+        "entailedWords": [ "concern" ],
+        "entailedTree": { "word": "concern" },
+        "priorScore": 0.005465,
+        "contextScore": 0.02726,
+        "score": 0.2202
+      },
+      {
+        "id": 172,
+        "wordPositions": [ 15 ],
+        "entailedWords": [ "combine" ],
+        "entailedTree": { "word": "combine" },
+        "priorScore": 0.01777,
+        "contextScore": 0.08098,
+        "score": 0.4879
+      },
+      {
+        "id": 173,
+        "wordPositions": [ 15 ],
+        "entailedWords": [ "account" ],
+        "entailedTree": { "word": "account" },
+        "priorScore": 0.002652,
+        "contextScore": 0.1754,
+        "score": 0.2232
+      },
+      {
+        "id": 174,
+        "wordPositions": [ 15 ],
+        "entailedWords": [ "retain" ],
+        "entailedTree": { "word": "retain" },
+        "priorScore": 0.007323,
+        "contextScore": 0.0563,
+        "score": 0.269
+      },
+      {
+        "id": 175,
+        "wordPositions": [ 15 ],
+        "entailedWords": [ "record" ],
+        "entailedTree": { "word": "record" },
+        "priorScore": 0.01176,
+        "contextScore": -0.02795,
+        "score": 0.324
+      },
+      {
+        "id": 176,
+        "wordPositions": [ 15 ],
+        "entailedWords": [ "number" ],
+        "entailedTree": { "word": "number" },
+        "priorScore": 0.02191,
+        "contextScore": -0.08469,
+        "score": 0.5042
+      },
+      {
+        "id": 177,
+        "wordPositions": [ 15 ],
+        "entailedWords": [ "extend" ],
+        "entailedTree": { "word": "extend" },
+        "priorScore": 0.01085,
+        "contextScore": -0.1138,
+        "score": 0.2715
+      },
+      {
+        "id": 178,
+        "wordPositions": [ 15 ],
+        "entailedWords": [ "expand" ],
+        "entailedTree": { "word": "expand" },
+        "priorScore": 0.01255,
+        "contextScore": 0.3369,
+        "score": 0.4858
+      },
+      {
+        "id": 179,
+        "wordPositions": [ 15 ],
+        "entailedWords": [ "engage" ],
+        "entailedTree": { "word": "engage" },
+        "priorScore": 0.004993,
+        "contextScore": -0.09075,
+        "score": 0.1636
+      },
+      {
+        "id": 180,
+        "wordPositions": [ 15 ],
+        "entailedWords": [ "create" ],
+        "entailedTree": { "word": "create" },
+        "priorScore": 0.03484,
+        "contextScore": 0.0125,
+        "score": 0.8018
+      },
+      {
+        "id": 181,
+        "wordPositions": [ 15 ],
+        "entailedWords": [ "belong" ],
+        "entailedTree": { "word": "belong" },
+        "priorScore": 0.00602,
+        "contextScore": 0.08058,
+        "score": 0.2526
+      },
+      {
+        "id": 182,
+        "wordPositions": [ 15 ],
+        "entailedWords": [ "write" ],
+        "entailedTree": { "word": "write" },
+        "priorScore": 0.0248,
+        "contextScore": -0.1045,
+        "score": 0.5542
+      },
+      {
+        "id": 183,
+        "wordPositions": [ 15 ],
+        "entailedWords": [ "range" ],
+        "entailedTree": { "word": "range" },
+        "priorScore": 0.01316,
+        "contextScore": 0.1233,
+        "score": 0.4125
+      },
+      {
+        "id": 184,
+        "wordPositions": [ 15 ],
+        "entailedWords": [ "raise" ],
+        "entailedTree": { "word": "raise" },
+        "priorScore": 0.006715,
+        "contextScore": 0.02325,
+        "score": 0.2436
+      },
+      {
+        "id": 185,
+        "wordPositions": [ 15 ],
+        "entailedWords": [ "offer" ],
+        "entailedTree": { "word": "offer" },
+        "priorScore": 0.02708,
+        "contextScore": 0.221,
+        "score": 0.73
+      },
+      {
+        "id": 186,
+        "wordPositions": [ 15 ],
+        "entailedWords": [ "carry" ],
+        "entailedTree": { "word": "carry" },
+        "priorScore": 0.01828,
+        "contextScore": 0.02386,
+        "score": 0.4751
+      },
+      {
+        "id": 187,
+        "wordPositions": [ 15 ],
+        "entailedWords": [ "build" ],
+        "entailedTree": { "word": "build" },
+        "priorScore": 0.02078,
+        "contextScore": 0.07983,
+        "score": 0.5475
+      },
+      {
+        "id": 188,
+        "wordPositions": [ 15 ],
+        "entailedWords": [ "bring" ],
+        "entailedTree": { "word": "bring" },
+        "priorScore": 0.02225,
+        "contextScore": -0.02274,
+        "score": 0.5359
+      },
+      {
+        "id": 189,
+        "wordPositions": [ 15 ],
+        "entailedWords": [ "allow" ],
+        "entailedTree": { "word": "allow" },
+        "priorScore": 0.01507,
+        "contextScore": -0.06626,
+        "score": 0.3748
+      },
+      {
+        "id": 190,
+        "wordPositions": [ 15 ],
+        "entailedWords": [ "rely" ],
+        "entailedTree": { "word": "rely" },
+        "priorScore": 0.01005,
+        "contextScore": -0.005455,
+        "score": 0.2989
+      },
+      {
+        "id": 191,
+        "wordPositions": [ 15 ],
+        "entailedWords": [ "rank" ],
+        "entailedTree": { "word": "rank" },
+        "priorScore": 0.003869,
+        "contextScore": -0.01654,
+        "score": 0.1708
+      },
+      {
+        "id": 192,
+        "wordPositions": [ 15 ],
+        "entailedWords": [ "make" ],
+        "entailedTree": { "word": "make" },
+        "priorScore": 0.04821,
+        "contextScore": -0.121,
+        "score": 1.016
+      },
+      {
+        "id": 193,
+        "wordPositions": [ 15 ],
+        "entailedWords": [ "hold" ],
+        "entailedTree": { "word": "hold" },
+        "priorScore": 0.01673,
+        "contextScore": 0.2188,
+        "score": 0.5221
+      },
+      {
+        "id": 194,
+        "wordPositions": [ 15 ],
+        "entailedWords": [ "give" ],
+        "entailedTree": { "word": "give" },
+        "priorScore": 0.0328,
+        "contextScore": -0.1015,
+        "score": 0.7154
+      },
+      {
+        "id": 195,
+        "wordPositions": [ 15 ],
+        "entailedWords": [ "deal" ],
+        "entailedTree": { "word": "deal" },
+        "priorScore": 0.006985,
+        "contextScore": 0.381,
+        "score": 0.3921
+      },
+      {
+        "id": 196,
+        "wordPositions": [ 15 ],
+        "entailedWords": [ "bear" ],
+        "entailedTree": { "word": "bear" },
+        "priorScore": 0.006644,
+        "contextScore": -0.02213,
+        "score": 0.224
+      },
+      {
+        "id": 197,
+        "wordPositions": [ 15 ],
+        "entailedWords": [ "use" ],
+        "entailedTree": { "word": "use" },
+        "priorScore": 0.06923,
+        "contextScore": -0.04112,
+        "score": 1.468
+      },
+      {
+        "id": 198,
+        "wordPositions": [ 15 ],
+        "entailedWords": [ "put" ],
+        "entailedTree": { "word": "put" },
+        "priorScore": 0.01489,
+        "contextScore": -0.004178,
+        "score": 0.3962
+      },
+      {
+        "id": 199,
+        "wordPositions": [ 15 ],
+        "entailedWords": [ "add" ],
+        "entailedTree": { "word": "add" },
+        "priorScore": 0.01185,
+        "contextScore": -0.02438,
+        "score": 0.3272
+      },
+      {
+        "id": 200,
+        "wordPositions": [ 17 ],
+        "entailedWords": [ "stake" ],
+        "entailedTree": { "word": "stake" },
+        "priorScore": 1,
+        "contextScore": 1,
+        "score": 1
+      },
+      {
+        "id": 201,
+        "wordPositions": [ 17 ],
+        "entailedWords": [ "shareholding" ],
+        "entailedTree": { "word": "shareholding" },
+        "priorScore": 0.01158,
+        "contextScore": 1,
+        "score": 0.7845
+      },
+      {
+        "id": 202,
+        "wordPositions": [ 17 ],
+        "entailedWords": [ "venture" ],
+        "entailedTree": { "word": "venture" },
+        "priorScore": 0.008254,
+        "contextScore": 0.6123,
+        "score": 0.51
+      },
+      {
+        "id": 203,
+        "wordPositions": [ 17 ],
+        "entailedWords": [ "stock" ],
+        "entailedTree": { "word": "stock" },
+        "priorScore": 0.008269,
+        "contextScore": 0.7523,
+        "score": 0.5663
+      },
+      {
+        "id": 204,
+        "wordPositions": [ 17 ],
+        "entailedWords": [ "share" ],
+        "entailedTree": { "word": "share" },
+        "priorScore": 0.02014,
+        "contextScore": 0.5649,
+        "score": 0.7287
+      },
+      {
+        "id": 205,
+        "wordPositions": [ 20 ],
+        "entailedWords": [ "parent" ],
+        "entailedTree": { "word": "parent" },
+        "priorScore": 1,
+        "contextScore": 1,
+        "score": 1
+      },
+      {
+        "id": 206,
+        "wordPositions": [ 20 ],
+        "entailedWords": [ "family" ],
+        "entailedTree": { "word": "family" },
+        "priorScore": 0.02767,
+        "contextScore": -0.04002,
+        "score": 0.6374
+      },
+      {
+        "id": 207,
+        "wordPositions": [ 21 ],
+        "entailedWords": [ "company" ],
+        "entailedTree": { "word": "company" },
+        "priorScore": 1,
+        "contextScore": 1,
+        "score": 1
+      },
+      {
+        "id": 208,
+        "wordPositions": [ 21 ],
+        "entailedWords": [ "organisation" ],
+        "entailedTree": { "word": "organisation" },
+        "priorScore": 0.009027,
+        "contextScore": -0.01287,
+        "score": 0.2754
+      },
+      {
+        "id": 209,
+        "wordPositions": [ 21 ],
+        "entailedWords": [ "manufacturer" ],
+        "entailedTree": { "word": "manufacturer" },
+        "priorScore": 0.0234,
+        "contextScore": -0.03667,
+        "score": 0.5534
+      },
+      {
+        "id": 210,
+        "wordPositions": [ 21 ],
+        "entailedWords": [ "corporation" ],
+        "entailedTree": { "word": "corporation" },
+        "priorScore": 0.05043,
+        "contextScore": 0.2508,
+        "score": 1.209
+      },
+      {
+        "id": 211,
+        "wordPositions": [ 21 ],
+        "entailedWords": [ "association" ],
+        "entailedTree": { "word": "association" },
+        "priorScore": 0.01363,
+        "contextScore": -0.004109,
+        "score": 0.3709
+      },
+      {
+        "id": 212,
+        "wordPositions": [ 21 ],
+        "entailedWords": [ "subsidiary" ],
+        "entailedTree": { "word": "subsidiary" },
+        "priorScore": 0.01233,
+        "contextScore": 0.7947,
+        "score": 0.6644
+      },
+      {
+        "id": 213,
+        "wordPositions": [ 21 ],
+        "entailedWords": [ "operation" ],
+        "entailedTree": { "word": "operation" },
+        "priorScore": 0.009866,
+        "contextScore": -0.07669,
+        "score": 0.2666
+      },
+      {
+        "id": 214,
+        "wordPositions": [ 21 ],
+        "entailedWords": [ "operator" ],
+        "entailedTree": { "word": "operator" },
+        "priorScore": 0.008115,
+        "contextScore": 0.3593,
+        "score": 0.406
+      },
+      {
+        "id": 215,
+        "wordPositions": [ 21 ],
+        "entailedWords": [ "business" ],
+        "entailedTree": { "word": "business" },
+        "priorScore": 0.02973,
+        "contextScore": -0.01577,
+        "score": 0.6882
+      },
+      {
+        "id": 216,
+        "wordPositions": [ 21 ],
+        "entailedWords": [ "society" ],
+        "entailedTree": { "word": "society" },
+        "priorScore": 0.009259,
+        "contextScore": -0.06537,
+        "score": 0.259
+      },
+      {
+        "id": 217,
+        "wordPositions": [ 21 ],
+        "entailedWords": [ "airline" ],
+        "entailedTree": { "word": "airline" },
+        "priorScore": 0.01112,
+        "contextScore": 1,
+        "score": 0.7862
+      },
+      {
+        "id": 218,
+        "wordPositions": [ 21 ],
+        "entailedWords": [ "agency" ],
+        "entailedTree": { "word": "agency" },
+        "priorScore": 0.01455,
+        "contextScore": -0.1175,
+        "score": 0.3441
+      },
+      {
+        "id": 219,
+        "wordPositions": [ 21 ],
+        "entailedWords": [ "group" ],
+        "entailedTree": { "word": "group" },
+        "priorScore": 0.02189,
+        "contextScore": 0.2284,
+        "score": 0.6292
+      },
+      {
+        "id": 220,
+        "wordPositions": [ 21 ],
+        "entailedWords": [ "firm" ],
+        "entailedTree": { "word": "firm" },
+        "priorScore": 0.03696,
+        "contextScore": 0.05612,
+        "score": 0.8617
+      }
+    ]
+  },
+  "time": 0.01014,
+  "ok": true
+}

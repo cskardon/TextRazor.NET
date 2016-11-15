@@ -1,0 +1,267 @@
+﻿{
+  "response": {
+    "sentences": [
+      {
+        "position": 0,
+        "words": [
+          {
+            "position": 0,
+            "startingPos": 0,
+            "endingPos": 5,
+            "stem": "spain",
+            "lemma": "spain",
+            "token": "Spain",
+            "partOfSpeech": "NNP"
+          },
+          {
+            "position": 1,
+            "startingPos": 5,
+            "endingPos": 7,
+            "stem": "'s",
+            "lemma": "'s",
+            "token": "'s",
+            "partOfSpeech": "POS"
+          },
+          {
+            "position": 2,
+            "startingPos": 8,
+            "endingPos": 16,
+            "stem": "stricken",
+            "lemma": "stricken",
+            "token": "stricken",
+            "partOfSpeech": "JJ"
+          },
+          {
+            "position": 3,
+            "startingPos": 17,
+            "endingPos": 23,
+            "stem": "bankia",
+            "lemma": "bankia",
+            "token": "Bankia",
+            "partOfSpeech": "NNP"
+          },
+          {
+            "position": 4,
+            "startingPos": 24,
+            "endingPos": 31,
+            "stem": "expect",
+            "lemma": "expect",
+            "token": "expects",
+            "partOfSpeech": "VBZ"
+          },
+          {
+            "position": 5,
+            "startingPos": 32,
+            "endingPos": 34,
+            "stem": "to",
+            "lemma": "to",
+            "token": "to",
+            "partOfSpeech": "TO"
+          },
+          {
+            "position": 6,
+            "startingPos": 35,
+            "endingPos": 39,
+            "stem": "sell",
+            "lemma": "sell",
+            "token": "sell",
+            "partOfSpeech": "VB"
+          },
+          {
+            "position": 7,
+            "startingPos": 40,
+            "endingPos": 43,
+            "stem": "off",
+            "lemma": "off",
+            "token": "off",
+            "partOfSpeech": "RP"
+          },
+          {
+            "position": 8,
+            "startingPos": 44,
+            "endingPos": 47,
+            "stem": "it",
+            "lemma": "it",
+            "token": "its",
+            "partOfSpeech": "PRP$"
+          },
+          {
+            "position": 9,
+            "startingPos": 48,
+            "endingPos": 52,
+            "stem": "vast",
+            "lemma": "vast",
+            "token": "vast",
+            "partOfSpeech": "JJ"
+          },
+          {
+            "position": 10,
+            "startingPos": 53,
+            "endingPos": 62,
+            "stem": "portfolio",
+            "lemma": "portfolio",
+            "token": "portfolio",
+            "partOfSpeech": "NN"
+          },
+          {
+            "position": 11,
+            "startingPos": 63,
+            "endingPos": 65,
+            "stem": "of",
+            "lemma": "of",
+            "token": "of",
+            "partOfSpeech": "IN"
+          },
+          {
+            "position": 12,
+            "startingPos": 66,
+            "endingPos": 76,
+            "stem": "industri",
+            "lemma": "industrial",
+            "token": "industrial",
+            "partOfSpeech": "JJ"
+          },
+          {
+            "position": 13,
+            "startingPos": 77,
+            "endingPos": 85,
+            "stem": "hold",
+            "lemma": "holding",
+            "token": "holdings",
+            "partOfSpeech": "NNS"
+          },
+          {
+            "position": 14,
+            "startingPos": 86,
+            "endingPos": 90,
+            "stem": "that",
+            "lemma": "that",
+            "token": "that",
+            "partOfSpeech": "WDT"
+          },
+          {
+            "position": 15,
+            "startingPos": 91,
+            "endingPos": 99,
+            "stem": "includ",
+            "lemma": "include",
+            "token": "includes",
+            "partOfSpeech": "VBZ"
+          },
+          {
+            "position": 16,
+            "startingPos": 100,
+            "endingPos": 101,
+            "stem": "a",
+            "lemma": "a",
+            "token": "a",
+            "partOfSpeech": "DT"
+          },
+          {
+            "position": 17,
+            "startingPos": 102,
+            "endingPos": 107,
+            "stem": "stake",
+            "lemma": "stake",
+            "token": "stake",
+            "partOfSpeech": "NN"
+          },
+          {
+            "position": 18,
+            "startingPos": 108,
+            "endingPos": 110,
+            "stem": "in",
+            "lemma": "in",
+            "token": "in",
+            "partOfSpeech": "IN"
+          },
+          {
+            "position": 19,
+            "startingPos": 111,
+            "endingPos": 114,
+            "stem": "the",
+            "lemma": "the",
+            "token": "the",
+            "partOfSpeech": "DT"
+          },
+          {
+            "position": 20,
+            "startingPos": 115,
+            "endingPos": 121,
+            "stem": "parent",
+            "lemma": "parent",
+            "token": "parent",
+            "partOfSpeech": "NN"
+          },
+          {
+            "position": 21,
+            "startingPos": 122,
+            "endingPos": 129,
+            "stem": "compani",
+            "lemma": "company",
+            "token": "company",
+            "partOfSpeech": "NN"
+          },
+          {
+            "position": 22,
+            "startingPos": 130,
+            "endingPos": 132,
+            "stem": "of",
+            "lemma": "of",
+            "token": "of",
+            "partOfSpeech": "IN"
+          },
+          {
+            "position": 23,
+            "startingPos": 133,
+            "endingPos": 140,
+            "stem": "british",
+            "lemma": "british",
+            "token": "British",
+            "partOfSpeech": "NNP"
+          },
+          {
+            "position": 24,
+            "startingPos": 141,
+            "endingPos": 148,
+            "stem": "airway",
+            "lemma": "airway",
+            "token": "Airways",
+            "partOfSpeech": "NNPS"
+          },
+          {
+            "position": 25,
+            "startingPos": 149,
+            "endingPos": 152,
+            "stem": "and",
+            "lemma": "and",
+            "token": "and",
+            "partOfSpeech": "CC"
+          },
+          {
+            "position": 26,
+            "startingPos": 153,
+            "endingPos": 159,
+            "stem": "iberia",
+            "lemma": "iberia",
+            "token": "Iberia",
+            "partOfSpeech": "NNP"
+          },
+          {
+            "position": 27,
+            "startingPos": 159,
+            "endingPos": 160,
+            "stem": ".",
+            "lemma": ".",
+            "token": ".",
+            "partOfSpeech": "."
+          }
+        ]
+      }
+    ],
+    "language": "eng",
+    "languageIsReliable": true
+  },
+  "time": 0.001632,
+  "ok": true
+}

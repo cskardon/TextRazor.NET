@@ -1,0 +1,746 @@
+﻿{
+  "response": {
+    "coarseTopics": [
+      {
+        "id": 0,
+        "label": "Business",
+        "wikiLink": "http://en.wikipedia.org/Category:Business",
+        "score": 1
+      }
+    ],
+    "language": "eng",
+    "languageIsReliable": true,
+    "topics": [
+      {
+        "id": 0,
+        "label": "Airline trade associations",
+        "wikiLink": "http://en.wikipedia.org/Category:Airline_trade_associations",
+        "score": 1
+      },
+      {
+        "id": 1,
+        "label": "Transport operators",
+        "wikiLink": "http://en.wikipedia.org/Category:Transport_operators",
+        "score": 1,
+        "wikidataId": "Q740752"
+      },
+      {
+        "id": 2,
+        "label": "European Low Fares Airline Association",
+        "wikiLink": "http://en.wikipedia.org/Category:European_Low_Fares_Airline_Association",
+        "score": 1,
+        "wikidataId": "Q925998"
+      },
+      {
+        "id": 3,
+        "label": "Travel",
+        "wikiLink": "http://en.wikipedia.org/Category:Travel",
+        "score": 1,
+        "wikidataId": "Q61509"
+      },
+      {
+        "id": 4,
+        "label": "IATA members",
+        "wikiLink": "http://en.wikipedia.org/Category:IATA_members",
+        "score": 1
+      },
+      {
+        "id": 5,
+        "label": "Iberia Group",
+        "wikiLink": "http://en.wikipedia.org/Category:Iberia_Group",
+        "score": 1
+      },
+      {
+        "id": 6,
+        "label": "International Air Transport Association",
+        "wikiLink": "http://en.wikipedia.org/Category:International_Air_Transport_Association",
+        "score": 1,
+        "wikidataId": "Q19755"
+      },
+      {
+        "id": 7,
+        "label": "Airlines",
+        "wikiLink": "http://en.wikipedia.org/Category:Airlines",
+        "score": 1,
+        "wikidataId": "Q46970"
+      },
+      {
+        "id": 8,
+        "label": "Association of European Airlines",
+        "wikiLink": "http://en.wikipedia.org/Category:Association_of_European_Airlines",
+        "score": 1,
+        "wikidataId": "Q743924"
+      },
+      {
+        "id": 9,
+        "label": "Aviation",
+        "wikiLink": "http://en.wikipedia.org/Category:Aviation",
+        "score": 1,
+        "wikidataId": "Q765633"
+      },
+      {
+        "id": 10,
+        "label": "Tourism companies",
+        "wikiLink": "http://en.wikipedia.org/Category:Tourism_companies",
+        "score": 1
+      },
+      {
+        "id": 11,
+        "label": "International Airlines Group",
+        "wikiLink": "http://en.wikipedia.org/Category:International_Airlines_Group",
+        "score": 1,
+        "wikidataId": "Q8774"
+      },
+      {
+        "id": 12,
+        "label": "Airline holding companies",
+        "wikiLink": "http://en.wikipedia.org/Category:Airline_holding_companies",
+        "score": 1
+      },
+      {
+        "id": 13,
+        "label": "Airlines of Europe",
+        "wikiLink": "http://en.wikipedia.org/Category:Airlines_of_Europe",
+        "score": 1
+      },
+      {
+        "id": 14,
+        "label": "Service companies",
+        "wikiLink": "http://en.wikipedia.org/Category:Service_companies",
+        "score": 1
+      },
+      {
+        "id": 15,
+        "label": "Transport companies",
+        "wikiLink": "http://en.wikipedia.org/Category:Transport_companies",
+        "score": 1
+      },
+      {
+        "id": 16,
+        "label": "Association of European Airlines members",
+        "wikiLink": "http://en.wikipedia.org/Category:Association_of_European_Airlines_members",
+        "score": 1
+      },
+      {
+        "id": 17,
+        "label": "Low-cost airlines",
+        "wikiLink": "http://en.wikipedia.org/Category:Low-cost_airlines",
+        "score": 0.9834,
+        "wikidataId": "Q190915"
+      },
+      {
+        "id": 18,
+        "label": "No frills",
+        "wikiLink": "http://en.wikipedia.org/Category:No_frills",
+        "score": 0.8818,
+        "wikidataId": "Q1365464"
+      },
+      {
+        "id": 19,
+        "label": "Iberia (airline)",
+        "wikiLink": "http://en.wikipedia.org/Category:Iberia_(airline)",
+        "score": 0.8718,
+        "wikidataId": "Q187972"
+      },
+      {
+        "id": 20,
+        "label": "Aviation trade associations",
+        "wikiLink": "http://en.wikipedia.org/Category:Aviation_trade_associations",
+        "score": 0.8462
+      },
+      {
+        "id": 21,
+        "label": "Airlines of Spain",
+        "wikiLink": "http://en.wikipedia.org/Category:Airlines_of_Spain",
+        "score": 0.8299
+      },
+      {
+        "id": 22,
+        "label": "Economy of Madrid",
+        "wikiLink": "http://en.wikipedia.org/Category:Economy_of_Madrid",
+        "score": 0.8052,
+        "wikidataId": "Q5248073"
+      },
+      {
+        "id": 23,
+        "label": "Transport companies of Spain",
+        "wikiLink": "http://en.wikipedia.org/Category:Transport_companies_of_Spain",
+        "score": 0.793
+      },
+      {
+        "id": 24,
+        "label": "Spanish brands",
+        "wikiLink": "http://en.wikipedia.org/Category:Spanish_brands",
+        "score": 0.7733
+      },
+      {
+        "id": 25,
+        "label": "Companies of Europe",
+        "wikiLink": "http://en.wikipedia.org/Category:Companies_of_Europe",
+        "score": 0.769
+      },
+      {
+        "id": 26,
+        "label": "oneworld",
+        "wikiLink": "http://en.wikipedia.org/Category:oneworld",
+        "score": 0.7306
+      },
+      {
+        "id": 27,
+        "label": "Companies",
+        "wikiLink": "http://en.wikipedia.org/Category:Companies",
+        "score": 0.7069,
+        "wikidataId": "Q6881511"
+      },
+      {
+        "id": 28,
+        "label": "Companies of Spain",
+        "wikiLink": "http://en.wikipedia.org/Category:Companies_of_Spain",
+        "score": 0.7037
+      },
+      {
+        "id": 29,
+        "label": "British Airways",
+        "wikiLink": "http://en.wikipedia.org/Category:British_Airways",
+        "score": 0.6488,
+        "wikidataId": "Q8766"
+      },
+      {
+        "id": 30,
+        "label": "Economy of Spain",
+        "wikiLink": "http://en.wikipedia.org/Category:Economy_of_Spain",
+        "score": 0.6433,
+        "wikidataId": "Q8050"
+      },
+      {
+        "id": 31,
+        "label": "Holding companies",
+        "wikiLink": "http://en.wikipedia.org/Category:Holding_companies",
+        "score": 0.6378,
+        "wikidataId": "Q219577"
+      },
+      {
+        "id": 32,
+        "label": "Oneworld",
+        "wikiLink": "http://en.wikipedia.org/Category:Oneworld",
+        "score": 0.5813,
+        "wikidataId": "Q8787"
+      },
+      {
+        "id": 33,
+        "label": "Airlines of the United Kingdom",
+        "wikiLink": "http://en.wikipedia.org/Category:Airlines_of_the_United_Kingdom",
+        "score": 0.5618
+      },
+      {
+        "id": 34,
+        "label": "Companies of the United Kingdom",
+        "wikiLink": "http://en.wikipedia.org/Category:Companies_of_the_United_Kingdom",
+        "score": 0.5242
+      },
+      {
+        "id": 35,
+        "label": "Airline alliances",
+        "wikiLink": "http://en.wikipedia.org/Category:Airline_alliances",
+        "score": 0.4621,
+        "wikidataId": "Q465909"
+      },
+      {
+        "id": 36,
+        "label": "Business",
+        "wikiLink": "http://en.wikipedia.org/Category:Business",
+        "score": 0.4331,
+        "wikidataId": "Q4830453"
+      },
+      {
+        "id": 37,
+        "label": "Community of Madrid",
+        "wikiLink": "http://en.wikipedia.org/Category:Community_of_Madrid",
+        "score": 0.4322,
+        "wikidataId": "Q5756"
+      },
+      {
+        "id": 38,
+        "label": "British Air Transport Association",
+        "wikiLink": "http://en.wikipedia.org/Category:British_Air_Transport_Association",
+        "score": 0.4193,
+        "wikidataId": "Q16846831"
+      },
+      {
+        "id": 39,
+        "label": "Madrid",
+        "wikiLink": "http://en.wikipedia.org/Category:Madrid",
+        "score": 0.4177,
+        "wikidataId": "Q2807"
+      },
+      {
+        "id": 40,
+        "label": "Price fixing convictions",
+        "wikiLink": "http://en.wikipedia.org/Category:Price_fixing_convictions",
+        "score": 0.4075
+      },
+      {
+        "id": 41,
+        "label": "Transport operators of the United Kingdom",
+        "wikiLink": "http://en.wikipedia.org/Category:Transport_operators_of_the_United_Kingdom",
+        "score": 0.3659
+      },
+      {
+        "id": 42,
+        "label": "London Borough of Hillingdon",
+        "wikiLink": "http://en.wikipedia.org/Category:London_Borough_of_Hillingdon",
+        "score": 0.3371,
+        "wikidataId": "Q205690"
+      },
+      {
+        "id": 43,
+        "label": "Service companies of the United Kingdom",
+        "wikiLink": "http://en.wikipedia.org/Category:Service_companies_of_the_United_Kingdom",
+        "score": 0.3082
+      },
+      {
+        "id": 44,
+        "label": "Financial services companies of Spain",
+        "wikiLink": "http://en.wikipedia.org/Category:Financial_services_companies_of_Spain",
+        "score": 0.3027
+      },
+      {
+        "id": 45,
+        "label": "Commercial crimes",
+        "wikiLink": "http://en.wikipedia.org/Category:Commercial_crimes",
+        "score": 0.301,
+        "wikidataId": "Q1137778"
+      },
+      {
+        "id": 46,
+        "label": "Anti-competitive behaviour",
+        "wikiLink": "http://en.wikipedia.org/Category:Anti-competitive_behaviour",
+        "score": 0.3,
+        "wikidataId": "Q3401418"
+      },
+      {
+        "id": 47,
+        "label": "IBEX-35",
+        "wikiLink": "http://en.wikipedia.org/Category:IBEX-35",
+        "score": 0.2835,
+        "wikidataId": "Q938032"
+      },
+      {
+        "id": 48,
+        "label": "Spanish stock market indices",
+        "wikiLink": "http://en.wikipedia.org/Category:Spanish_stock_market_indices",
+        "score": 0.2667
+      },
+      {
+        "id": 49,
+        "label": "Economy of the United Kingdom",
+        "wikiLink": "http://en.wikipedia.org/Category:Economy_of_the_United_Kingdom",
+        "score": 0.2648,
+        "wikidataId": "Q323138"
+      },
+      {
+        "id": 50,
+        "label": "Banks of Spain",
+        "wikiLink": "http://en.wikipedia.org/Category:Banks_of_Spain",
+        "score": 0.2519
+      },
+      {
+        "id": 51,
+        "label": "Former government-owned companies",
+        "wikiLink": "http://en.wikipedia.org/Category:Former_government-owned_companies",
+        "score": 0.2446
+      },
+      {
+        "id": 52,
+        "label": "United Kingdom",
+        "wikiLink": "http://en.wikipedia.org/Category:United_Kingdom",
+        "score": 0.2432,
+        "wikidataId": "Q145"
+      },
+      {
+        "id": 53,
+        "label": "Economy of London",
+        "wikiLink": "http://en.wikipedia.org/Category:Economy_of_London",
+        "score": 0.243,
+        "wikidataId": "Q4530359"
+      },
+      {
+        "id": 54,
+        "label": "corporate governance",
+        "wikiLink": "http://en.wikipedia.org/Category:_corporate_governance",
+        "score": 0.2421
+      },
+      {
+        "id": 55,
+        "label": "Bank failures",
+        "wikiLink": "http://en.wikipedia.org/Category:Bank_failures",
+        "score": 0.2386,
+        "wikidataId": "Q4856009"
+      },
+      {
+        "id": 56,
+        "label": "Transport companies of the United Kingdom",
+        "wikiLink": "http://en.wikipedia.org/Category:Transport_companies_of_the_United_Kingdom",
+        "score": 0.2307
+      },
+      {
+        "id": 57,
+        "label": "Business failures",
+        "wikiLink": "http://en.wikipedia.org/Category:Business_failures",
+        "score": 0.2268,
+        "wikidataId": "Q5001874"
+      },
+      {
+        "id": 58,
+        "label": "Former nationalised industries of the United Kingdom",
+        "wikiLink": "http://en.wikipedia.org/Category:Former_nationalised_industries_of_the_United_Kingdom",
+        "score": 0.2243
+      },
+      {
+        "id": 59,
+        "label": "Supraorganizations",
+        "wikiLink": "http://en.wikipedia.org/Category:Supraorganizations",
+        "score": 0.2215,
+        "wikidataId": "Q1156831"
+      },
+      {
+        "id": 60,
+        "label": "Companies listed on the Madrid Stock Exchange",
+        "wikiLink": "http://en.wikipedia.org/Category:Companies_listed_on_the_Madrid_Stock_Exchange",
+        "score": 0.2161
+      },
+      {
+        "id": 61,
+        "label": "Aeronautics",
+        "wikiLink": "http://en.wikipedia.org/Category:Aeronautics",
+        "score": 0.2159,
+        "wikidataId": "Q8421"
+      },
+      {
+        "id": 62,
+        "label": "Travel-related organizations",
+        "wikiLink": "http://en.wikipedia.org/Category:Travel-related_organizations",
+        "score": 0.2118
+      },
+      {
+        "id": 63,
+        "label": "Financial crises",
+        "wikiLink": "http://en.wikipedia.org/Category:Financial_crises",
+        "score": 0.2063,
+        "wikidataId": "Q114380"
+      },
+      {
+        "id": 64,
+        "label": "Corporations",
+        "wikiLink": "http://en.wikipedia.org/Category:Corporations",
+        "score": 0.2018,
+        "wikidataId": "Q167037"
+      },
+      {
+        "id": 65,
+        "label": "Transport",
+        "wikiLink": "http://en.wikipedia.org/Category:Transport",
+        "score": 0.2012,
+        "wikidataId": "Q7590"
+      },
+      {
+        "id": 66,
+        "label": "Companies of England",
+        "wikiLink": "http://en.wikipedia.org/Category:Companies_of_England",
+        "score": 0.2
+      },
+      {
+        "id": 67,
+        "label": "Government-owned companies of the United Kingdom",
+        "wikiLink": "http://en.wikipedia.org/Category:Government-owned_companies_of_the_United_Kingdom",
+        "score": 0.1994
+      },
+      {
+        "id": 68,
+        "label": "Insolvent companies",
+        "wikiLink": "http://en.wikipedia.org/Category:Insolvent_companies",
+        "score": 0.1973
+      },
+      {
+        "id": 69,
+        "label": "Economy of Europe",
+        "wikiLink": "http://en.wikipedia.org/Category:Economy_of_Europe",
+        "score": 0.1815,
+        "wikidataId": "Q2226947"
+      },
+      {
+        "id": 70,
+        "label": "Banks",
+        "wikiLink": "http://en.wikipedia.org/Category:Banks",
+        "score": 0.1745,
+        "wikidataId": "Q22687"
+      },
+      {
+        "id": 71,
+        "label": "British brands",
+        "wikiLink": "http://en.wikipedia.org/Category:British_brands",
+        "score": 0.1724
+      },
+      {
+        "id": 72,
+        "label": "Companies listed on the London Stock Exchange",
+        "wikiLink": "http://en.wikipedia.org/Category:Companies_listed_on_the_London_Stock_Exchange",
+        "score": 0.1628
+      },
+      {
+        "id": 73,
+        "label": "Economic crises",
+        "wikiLink": "http://en.wikipedia.org/Category:Economic_crises",
+        "score": 0.1618
+      },
+      {
+        "id": 74,
+        "label": "Bankia",
+        "wikiLink": "http://en.wikipedia.org/Bankia",
+        "score": 0.1575,
+        "wikidataId": "Q806807"
+      },
+      {
+        "id": 75,
+        "label": "Banking",
+        "wikiLink": "http://en.wikipedia.org/Category:Banking",
+        "score": 0.156,
+        "wikidataId": "Q3435731"
+      },
+      {
+        "id": 76,
+        "label": "London Stock Exchange",
+        "wikiLink": "http://en.wikipedia.org/Category:London_Stock_Exchange",
+        "score": 0.1541,
+        "wikidataId": "Q171240"
+      },
+      {
+        "id": 77,
+        "label": "Monetary reform",
+        "wikiLink": "http://en.wikipedia.org/Category:Monetary_reform",
+        "score": 0.1506,
+        "wikidataId": "Q65224"
+      },
+      {
+        "id": 78,
+        "label": "Spain",
+        "wikiLink": "http://en.wikipedia.org/Spain",
+        "score": 0.149,
+        "wikidataId": "Q29"
+      },
+      {
+        "id": 79,
+        "label": "Financial institutions",
+        "wikiLink": "http://en.wikipedia.org/Category:Financial_institutions",
+        "score": 0.1455,
+        "wikidataId": "Q650241"
+      },
+      {
+        "id": 80,
+        "label": "Stock market",
+        "wikiLink": "http://en.wikipedia.org/Category:Stock_market",
+        "score": 0.1407,
+        "wikidataId": "Q475000"
+      },
+      {
+        "id": 81,
+        "label": "Nationalization",
+        "wikiLink": "http://en.wikipedia.org/Category:Nationalization",
+        "score": 0.1366,
+        "wikidataId": "Q178564"
+      },
+      {
+        "id": 82,
+        "label": "Economy of England",
+        "wikiLink": "http://en.wikipedia.org/Category:Economy_of_England",
+        "score": 0.1344,
+        "wikidataId": "Q5333670"
+      },
+      {
+        "id": 83,
+        "label": "Financial services companies",
+        "wikiLink": "http://en.wikipedia.org/Category:Financial_services_companies",
+        "score": 0.1319
+      },
+      {
+        "id": 84,
+        "label": "Corporatese",
+        "wikiLink": "http://en.wikipedia.org/Category:Corporatese",
+        "score": 0.1312,
+        "wikidataId": "Q5172467"
+      },
+      {
+        "id": 85,
+        "label": "Aviation organizations",
+        "wikiLink": "http://en.wikipedia.org/Category:Aviation_organizations",
+        "score": 0.1281
+      },
+      {
+        "id": 86,
+        "label": "London",
+        "wikiLink": "http://en.wikipedia.org/Category:London",
+        "score": 0.1261,
+        "wikidataId": "Q84"
+      },
+      {
+        "id": 87,
+        "label": "Institutional investors",
+        "wikiLink": "http://en.wikipedia.org/Category:Institutional_investors",
+        "score": 0.1239
+      },
+      {
+        "id": 88,
+        "label": "Bodies of the United Kingdom government",
+        "wikiLink": "http://en.wikipedia.org/Category:Bodies_of_the_United_Kingdom_government",
+        "score": 0.1222
+      },
+      {
+        "id": 89,
+        "label": "Business cycle",
+        "wikiLink": "http://en.wikipedia.org/Category:Business_cycle",
+        "score": 0.1202,
+        "wikidataId": "Q192311"
+      },
+      {
+        "id": 90,
+        "label": "Government of the United Kingdom",
+        "wikiLink": "http://en.wikipedia.org/Category:Government_of_the_United_Kingdom",
+        "score": 0.1185,
+        "wikidataId": "Q6063"
+      },
+      {
+        "id": 91,
+        "label": "Services (economics)",
+        "wikiLink": "http://en.wikipedia.org/Category:Services_(economics)",
+        "score": 0.1168,
+        "wikidataId": "Q7406919"
+      },
+      {
+        "id": 92,
+        "label": "Financial system",
+        "wikiLink": "http://en.wikipedia.org/Category:Financial_system",
+        "score": 0.1167,
+        "wikidataId": "Q1416617"
+      },
+      {
+        "id": 93,
+        "label": "Politics of the United Kingdom",
+        "wikiLink": "http://en.wikipedia.org/Category:Politics_of_the_United_Kingdom",
+        "score": 0.1133,
+        "wikidataId": "Q678363"
+      },
+      {
+        "id": 94,
+        "label": "Monetary policy",
+        "wikiLink": "http://en.wikipedia.org/Category:Monetary_policy",
+        "score": 0.1133,
+        "wikidataId": "Q178476"
+      },
+      {
+        "id": 95,
+        "label": "Monetary economics",
+        "wikiLink": "http://en.wikipedia.org/Category:Monetary_economics",
+        "score": 0.1101,
+        "wikidataId": "Q580018"
+      },
+      {
+        "id": 96,
+        "label": "Money",
+        "wikiLink": "http://en.wikipedia.org/Category:Money",
+        "score": 0.107,
+        "wikidataId": "Q1368"
+      },
+      {
+        "id": 97,
+        "label": "Management",
+        "wikiLink": "http://en.wikipedia.org/Category:Management",
+        "score": 0.1056,
+        "wikidataId": "Q2920921"
+      },
+      {
+        "id": 98,
+        "label": "Finance",
+        "wikiLink": "http://en.wikipedia.org/Category:Finance",
+        "score": 0.104,
+        "wikidataId": "Q43015"
+      },
+      {
+        "id": 99,
+        "label": "Parent company",
+        "wikiLink": "http://en.wikipedia.org/Parent_company",
+        "score": 0.101,
+        "wikidataId": "Q1956113"
+      },
+      {
+        "id": 100,
+        "label": "Economic institutions",
+        "wikiLink": "http://en.wikipedia.org/Category:Economic_institutions",
+        "score": 0.0987
+      },
+      {
+        "id": 101,
+        "label": "Strategic management",
+        "wikiLink": "http://en.wikipedia.org/Category:Strategic_management",
+        "score": 0.09243,
+        "wikidataId": "Q376657"
+      },
+      {
+        "id": 102,
+        "label": "Accountability",
+        "wikiLink": "http://en.wikipedia.org/Category:Accountability",
+        "score": 0.0867,
+        "wikidataId": "Q5190563"
+      },
+      {
+        "id": 103,
+        "label": "Capitalism",
+        "wikiLink": "http://en.wikipedia.org/Category:Capitalism",
+        "score": 0.08142,
+        "wikidataId": "Q6206"
+      },
+      {
+        "id": 104,
+        "label": "Legal concepts",
+        "wikiLink": "http://en.wikipedia.org/Category:Legal_concepts",
+        "score": 0.07655
+      },
+      {
+        "id": 105,
+        "label": "Leadership",
+        "wikiLink": "http://en.wikipedia.org/Category:Leadership",
+        "score": 0.07203,
+        "wikidataId": "Q484275"
+      },
+      {
+        "id": 106,
+        "label": "Business economics",
+        "wikiLink": "http://en.wikipedia.org/Category:Business_economics",
+        "score": 0.06781,
+        "wikidataId": "Q2043282"
+      },
+      {
+        "id": 107,
+        "label": "Service industries",
+        "wikiLink": "http://en.wikipedia.org/Category:Service_industries",
+        "score": 0.06388,
+        "wikidataId": "Q55638"
+      },
+      {
+        "id": 108,
+        "label": "Marketing",
+        "wikiLink": "http://en.wikipedia.org/Category:Marketing",
+        "score": 0.0602,
+        "wikidataId": "Q39809"
+      },
+      {
+        "id": 109,
+        "label": "Jargon",
+        "wikiLink": "http://en.wikipedia.org/Category:Jargon",
+        "score": 0.05674,
+        "wikidataId": "Q17951"
+      }
+    ]
+  },
+  "time": 0.007664,
+  "ok": true
+}

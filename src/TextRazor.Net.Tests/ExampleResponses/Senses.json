@@ -1,0 +1,527 @@
+﻿{
+  "response": {
+    "sentences": [
+      {
+        "position": 0,
+        "words": [
+          {
+            "position": 0,
+            "startingPos": 0,
+            "endingPos": 5,
+            "stem": "spain",
+            "lemma": "spain",
+            "token": "Spain",
+            "partOfSpeech": "NNP",
+            "senses": [
+              {
+                "synset": "spain.n.01",
+                "score": 0.6242
+              }
+            ]
+          },
+          {
+            "position": 1,
+            "startingPos": 5,
+            "endingPos": 7,
+            "stem": "'s",
+            "lemma": "'s",
+            "token": "'s",
+            "partOfSpeech": "POS"
+          },
+          {
+            "position": 2,
+            "startingPos": 8,
+            "endingPos": 16,
+            "stem": "stricken",
+            "lemma": "stricken",
+            "token": "stricken",
+            "partOfSpeech": "JJ",
+            "senses": [
+              {
+                "synset": "afflicted.s.01",
+                "score": -0.08772
+              },
+              {
+                "synset": "laid_low.s.01",
+                "score": -0.02428
+              },
+              {
+                "synset": "smitten.s.01",
+                "score": 0.06707
+              }
+            ]
+          },
+          {
+            "position": 3,
+            "startingPos": 17,
+            "endingPos": 23,
+            "stem": "bankia",
+            "lemma": "bankia",
+            "token": "Bankia",
+            "partOfSpeech": "NNP",
+            "senses": [
+              {
+                "synset": "bankia.n.01",
+                "score": 0.3956
+              }
+            ]
+          },
+          {
+            "position": 4,
+            "startingPos": 24,
+            "endingPos": 31,
+            "stem": "expect",
+            "lemma": "expect",
+            "token": "expects",
+            "partOfSpeech": "VBZ",
+            "senses": [
+              {
+                "synset": "expect.v.05",
+                "score": 0.01899
+              },
+              {
+                "synset": "expect.v.03",
+                "score": 0.02424
+              },
+              {
+                "synset": "expect.v.01",
+                "score": 0.03005
+              },
+              {
+                "synset": "expect.v.04",
+                "score": 0.03625
+              },
+              {
+                "synset": "ask.v.04",
+                "score": 0.04281
+              },
+              {
+                "synset": "have_a_bun_in_the_oven.v.01",
+                "score": 0.1372
+              }
+            ]
+          },
+          {
+            "position": 5,
+            "startingPos": 32,
+            "endingPos": 34,
+            "stem": "to",
+            "lemma": "to",
+            "token": "to",
+            "partOfSpeech": "TO"
+          },
+          {
+            "position": 6,
+            "startingPos": 35,
+            "endingPos": 39,
+            "stem": "sell",
+            "lemma": "sell",
+            "token": "sell",
+            "partOfSpeech": "VB",
+            "senses": [
+              {
+                "synset": "betray.v.02",
+                "score": 0.01555
+              },
+              {
+                "synset": "sell.v.03",
+                "score": 0.06429
+              },
+              {
+                "synset": "sell.v.05",
+                "score": 0.1655
+              },
+              {
+                "synset": "sell.v.06",
+                "score": 0.1797
+              },
+              {
+                "synset": "sell.v.02",
+                "score": 0.2079
+              },
+              {
+                "synset": "sell.v.07",
+                "score": 0.2486
+              },
+              {
+                "synset": "deal.v.06",
+                "score": 0.2984
+              },
+              {
+                "synset": "sell.v.01",
+                "score": 0.3303
+              }
+            ]
+          },
+          {
+            "position": 7,
+            "startingPos": 40,
+            "endingPos": 43,
+            "stem": "off",
+            "lemma": "off",
+            "token": "off",
+            "partOfSpeech": "RP"
+          },
+          {
+            "position": 8,
+            "startingPos": 44,
+            "endingPos": 47,
+            "stem": "it",
+            "lemma": "it",
+            "token": "its",
+            "partOfSpeech": "PRP$"
+          },
+          {
+            "position": 9,
+            "startingPos": 48,
+            "endingPos": 52,
+            "stem": "vast",
+            "lemma": "vast",
+            "token": "vast",
+            "partOfSpeech": "JJ",
+            "senses": [
+              {
+                "synset": "huge.s.01",
+                "score": 0.3133
+              }
+            ]
+          },
+          {
+            "position": 10,
+            "startingPos": 53,
+            "endingPos": 62,
+            "stem": "portfolio",
+            "lemma": "portfolio",
+            "token": "portfolio",
+            "partOfSpeech": "NN",
+            "senses": [
+              {
+                "synset": "portfolio.n.02",
+                "score": 0.1683
+              },
+              {
+                "synset": "portfolio.n.04",
+                "score": 0.1822
+              },
+              {
+                "synset": "portfolio.n.01",
+                "score": 0.2683
+              },
+              {
+                "synset": "portfolio.n.03",
+                "score": 0.4784
+              }
+            ]
+          },
+          {
+            "position": 11,
+            "startingPos": 63,
+            "endingPos": 65,
+            "stem": "of",
+            "lemma": "of",
+            "token": "of",
+            "partOfSpeech": "IN"
+          },
+          {
+            "position": 12,
+            "startingPos": 66,
+            "endingPos": 76,
+            "stem": "industri",
+            "lemma": "industrial",
+            "token": "industrial",
+            "partOfSpeech": "JJ",
+            "senses": [
+              {
+                "synset": "industrial.s.04",
+                "score": 0.01159
+              },
+              {
+                "synset": "industrial.s.03",
+                "score": 0.1193
+              },
+              {
+                "synset": "industrial.a.02",
+                "score": 0.1263
+              },
+              {
+                "synset": "industrial.a.01",
+                "score": 0.3344
+              }
+            ]
+          },
+          {
+            "position": 13,
+            "startingPos": 77,
+            "endingPos": 85,
+            "stem": "hold",
+            "lemma": "holding",
+            "token": "holdings",
+            "partOfSpeech": "NNS",
+            "senses": [
+              {
+                "synset": "retention.n.01",
+                "score": 0.3224
+              },
+              {
+                "synset": "property.n.01",
+                "score": 0.3344
+              }
+            ]
+          },
+          {
+            "position": 14,
+            "startingPos": 86,
+            "endingPos": 90,
+            "stem": "that",
+            "lemma": "that",
+            "token": "that",
+            "partOfSpeech": "WDT"
+          },
+          {
+            "position": 15,
+            "startingPos": 91,
+            "endingPos": 99,
+            "stem": "includ",
+            "lemma": "include",
+            "token": "includes",
+            "partOfSpeech": "VBZ",
+            "senses": [
+              {
+                "synset": "include.v.02",
+                "score": 0.1116
+              },
+              {
+                "synset": "admit.v.03",
+                "score": 0.1427
+              },
+              {
+                "synset": "include.v.03",
+                "score": 0.2016
+              },
+              {
+                "synset": "include.v.01",
+                "score": 0.2743
+              }
+            ]
+          },
+          {
+            "position": 16,
+            "startingPos": 100,
+            "endingPos": 101,
+            "stem": "a",
+            "lemma": "a",
+            "token": "a",
+            "partOfSpeech": "DT"
+          },
+          {
+            "position": 17,
+            "startingPos": 102,
+            "endingPos": 107,
+            "stem": "stake",
+            "lemma": "stake",
+            "token": "stake",
+            "partOfSpeech": "NN",
+            "senses": [
+              {
+                "synset": "post.n.09",
+                "score": 0.07412
+              },
+              {
+                "synset": "stake.n.05",
+                "score": 0.119
+              },
+              {
+                "synset": "stake.n.03",
+                "score": 0.1302
+              },
+              {
+                "synset": "stake.n.04",
+                "score": 0.3488
+              },
+              {
+                "synset": "interest.n.05",
+                "score": 0.852
+              }
+            ]
+          },
+          {
+            "position": 18,
+            "startingPos": 108,
+            "endingPos": 110,
+            "stem": "in",
+            "lemma": "in",
+            "token": "in",
+            "partOfSpeech": "IN"
+          },
+          {
+            "position": 19,
+            "startingPos": 111,
+            "endingPos": 114,
+            "stem": "the",
+            "lemma": "the",
+            "token": "the",
+            "partOfSpeech": "DT"
+          },
+          {
+            "position": 20,
+            "startingPos": 115,
+            "endingPos": 121,
+            "stem": "parent",
+            "lemma": "parent",
+            "token": "parent",
+            "partOfSpeech": "NN",
+            "senses": [
+              {
+                "synset": "parent.n.02",
+                "score": 0.05386
+              },
+              {
+                "synset": "parent.n.01",
+                "score": 0.06628
+              }
+            ]
+          },
+          {
+            "position": 21,
+            "startingPos": 122,
+            "endingPos": 129,
+            "stem": "compani",
+            "lemma": "company",
+            "token": "company",
+            "partOfSpeech": "NN",
+            "senses": [
+              {
+                "synset": "company.n.06",
+                "score": 0.005274
+              },
+              {
+                "synset": "company.n.03",
+                "score": 0.02283
+              },
+              {
+                "synset": "company.n.09",
+                "score": 0.1027
+              },
+              {
+                "synset": "company.n.04",
+                "score": 0.1202
+              },
+              {
+                "synset": "ship's_company.n.01",
+                "score": 0.1287
+              },
+              {
+                "synset": "party.n.03",
+                "score": 0.1314
+              },
+              {
+                "synset": "caller.n.01",
+                "score": 0.1406
+              },
+              {
+                "synset": "company.n.02",
+                "score": 0.1878
+              },
+              {
+                "synset": "company.n.01",
+                "score": 0.4791
+              }
+            ]
+          },
+          {
+            "position": 22,
+            "startingPos": 130,
+            "endingPos": 132,
+            "stem": "of",
+            "lemma": "of",
+            "token": "of",
+            "partOfSpeech": "IN"
+          },
+          {
+            "position": 23,
+            "startingPos": 133,
+            "endingPos": 140,
+            "stem": "british",
+            "lemma": "british",
+            "token": "British",
+            "partOfSpeech": "NNP",
+            "senses": [
+              {
+                "synset": "british.n.01",
+                "score": 0.4018
+              }
+            ]
+          },
+          {
+            "position": 24,
+            "startingPos": 141,
+            "endingPos": 148,
+            "stem": "airway",
+            "lemma": "airway",
+            "token": "Airways",
+            "partOfSpeech": "NNPS",
+            "senses": [
+              {
+                "synset": "respiratory_tract.n.01",
+                "score": 0.07395
+              },
+              {
+                "synset": "air_lane.n.01",
+                "score": 0.08926
+              },
+              {
+                "synset": "air_passage.n.01",
+                "score": 0.1183
+              },
+              {
+                "synset": "airline.n.02",
+                "score": 0.4081
+              }
+            ]
+          },
+          {
+            "position": 25,
+            "startingPos": 149,
+            "endingPos": 152,
+            "stem": "and",
+            "lemma": "and",
+            "token": "and",
+            "partOfSpeech": "CC"
+          },
+          {
+            "position": 26,
+            "startingPos": 153,
+            "endingPos": 159,
+            "stem": "iberia",
+            "lemma": "iberia",
+            "token": "Iberia",
+            "partOfSpeech": "NNP",
+            "senses": [
+              {
+                "synset": "iberia.n.01",
+                "score": 0.3452
+              },
+              {
+                "synset": "iberian_peninsula.n.01",
+                "score": 0.6784
+              }
+            ]
+          },
+          {
+            "position": 27,
+            "startingPos": 159,
+            "endingPos": 160,
+            "stem": ".",
+            "lemma": ".",
+            "token": ".",
+            "partOfSpeech": "."
+          }
+        ]
+      }
+    ],
+    "language": "eng",
+    "languageIsReliable": true
+  },
+  "time": 0.001853,
+  "ok": true
+}
