@@ -2,7 +2,19 @@
   "version": "1.0.0-*",
 
   "name":"TextRazor.NET",
-  "description":"A .NET library for accessing TextRazor over REST.",
+  "description": "A .NET library for accessing TextRazor over REST.",
+  "authors": [ "Chris Skardon" ],
+  "packOptions": {
+    "tags": [ "textrazor, text-analytics" ],
+    "licenseUrl": "http://www.opensource.org/licenses/MIT",
+    "projectUrl": "http://www.github.com/cskardon/TextRazor.NET",
+    "summary": "A .NET library for accessing TextRazor over REST.",
+    "iconUrl": "https://www.textrazor.com/img/favicon.ico",
+    "repository": {
+      "type": "git",
+      "url": "http://www.github.com/cskardon/TextRazor.NET"
+    }
+  },
 
   "dependencies": {
     "NETStandard.Library": "1.6.0",

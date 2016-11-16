@@ -13,4 +13,11 @@ ApiResponse response = client.Analyse("The text you want to analyze", ExtractorT
 
 ## Nuget
 
-Coming very soon!
+TextRazor.NET is available on [NuGet](https://www.nuget.org/packages/TextRazor.NET/), with CI releases on MyGet.
+
+
+## Current Builds
+The official TextRazor.NET build and nuget package is automated via MyGet [build services](http://docs.myget.org/docs/reference/build-services). Contributors can test private builds using MyGet build services under their own account.
+
+### Stable
+[![cskardon MyGet Build Status](https://www.myget.org/BuildSource/Badge/cskardon?identifier=a58db3b2-bfa6-4289-a5dd-9d85e1d619a4)](https://www.myget.org/)
