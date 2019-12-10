@@ -29,8 +29,9 @@
             [Fact]
             public async Task ParsesEntitiesCorrectly()
             {
-                var trc = new TextRazorClient(this._config["Endpoint"],_config["ApiKey"]);
-                var response = await trc.Analyze("Anything", ExtratorsType.Entities);
+            var mockClient = MockHelper.GetMockHttpClient(MockHelper.JsonToLoad.Entities);
+            var trc = new TextRazorClient(mockClient.Object);
+            var response = await trc.Analyze("Anything", ExtratorsType.Entities);
                 response.Response.Entities.Count().Should().BeGreaterThan(0);
             }
 
@@ -39,7 +40,7 @@
             {
                 var mockClient = MockHelper.GetMockHttpClient(MockHelper.JsonToLoad.Entailments);
 
-                var trc = new TextRazorClient(_config["Endpoint"],_config["ApiKey"]);;
+                var trc = new TextRazorClient(mockClient.Object); 
                 var response = await trc.Analyze("Anything", ExtratorsType.Entailments);
                 response.Response.Entailments.Count().Should().BeGreaterThan(0);
             }
@@ -49,8 +50,8 @@
             {
                 var mockClient = MockHelper.GetMockHttpClient(MockHelper.JsonToLoad.DependencyTrees);
 
-                var trc = new TextRazorClient(_config["Endpoint"],_config["ApiKey"]);;
-                var response = await trc.Analyze("Anything", ExtratorsType.DependencyTrees | ExtratorsType.Words);
+                var trc = new TextRazorClient(mockClient.Object);
+            var response = await trc.Analyze("Anything", ExtratorsType.DependencyTrees | ExtratorsType.Words);
                 response.Response.Sentences.Count().Should().BeGreaterThan(0);
             }
 
@@ -59,8 +60,8 @@
             {
                 var mockClient = MockHelper.GetMockHttpClient(MockHelper.JsonToLoad.Words);
 
-                var trc = new TextRazorClient(_config["Endpoint"],_config["ApiKey"]);;
-                var response = await trc.Analyze("Anything", ExtratorsType.Words);
+                var trc = new TextRazorClient(mockClient.Object);
+            var response = await trc.Analyze("Anything", ExtratorsType.Words);
                 response.Response.Sentences.Count().Should().BeGreaterThan(0);
             }
 
@@ -69,8 +70,8 @@
             {
                 var mockClient = MockHelper.GetMockHttpClient(MockHelper.JsonToLoad.Senses);
 
-                var trc = new TextRazorClient(_config["Endpoint"],_config["ApiKey"]);;
-                var response = await trc.Analyze("Anything", ExtratorsType.Senses | ExtratorsType.Words);
+                var trc = new TextRazorClient(mockClient.Object);
+            var response = await trc.Analyze("Anything", ExtratorsType.Senses | ExtratorsType.Words);
                 response.Response.Sentences.Count().Should().BeGreaterThan(0);
             }
 
@@ -79,8 +80,8 @@
             {
                 var mockClient = MockHelper.GetMockHttpClient(MockHelper.JsonToLoad.Topics);
 
-                var trc = new TextRazorClient(_config["Endpoint"],_config["ApiKey"]);;
-                var response = await trc.Analyze("Anything", ExtratorsType.Topics);
+                var trc = new TextRazorClient(mockClient.Object);
+            var response = await trc.Analyze("Anything", ExtratorsType.Topics);
                 response.Response.CoarseTopics.Count().Should().BeGreaterThan(0);
                 response.Response.Topics.Count().Should().BeGreaterThan(0);
             }
@@ -90,8 +91,8 @@
             {
                 var mockClient = MockHelper.GetMockHttpClient(MockHelper.JsonToLoad.Phrases);
 
-                var trc = new TextRazorClient(_config["Endpoint"],_config["ApiKey"]);;
-                var response = await trc.Analyze("Anything", ExtratorsType.Phrases);
+                var trc = new TextRazorClient(mockClient.Object);
+            var response = await trc.Analyze("Anything", ExtratorsType.Phrases);
                 response.Response.NounPhrases.Count().Should().BeGreaterThan(0);
             }
 
@@ -100,7 +101,7 @@
             {
                 var mockClient = MockHelper.GetMockHttpClient(MockHelper.JsonToLoad.Relations);
 
-                var trc = new TextRazorClient(_config["Endpoint"],_config["ApiKey"]);
+                var trc = new TextRazorClient(mockClient.Object);
             var response = await trc.Analyze("Anything", ExtratorsType.Relations);
                 response.Response.Relations.Count().Should().BeGreaterThan(0);
             }
