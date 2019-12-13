@@ -12,7 +12,7 @@
         public TextRazorClient(Uri textRazorUri, string apiKey) : this(new HttpClientWrapper(textRazorUri, apiKey))
         {}
 
-        internal TextRazorClient(IHttpClient client)
+        public TextRazorClient(IHttpClient client)
         {
             _httpClient = client;
         }
@@ -21,8 +21,7 @@
             : this(new Uri(textRazorUri), apiKey)
         {}
 
-
-        public async Task<ApiResponse> Analyze(string words, ExtratorsType extrators)
+        public async Task<ApiResponse> Analyze(string words, ExtratorsType extrators,string rules = null)
         {
             if ((extrators == ExtratorsType.DependencyTrees && extrators != ExtratorsType.Words) ||
                 (extrators == ExtratorsType.Senses && extrators != ExtratorsType.Words))
@@ -31,8 +30,15 @@
             var request = new AnalysisRequest
             {
                 Text = words,
-                Extractors = extrators
+                Extractors = extrators,
+                Rules = rules
             };
+
+            //if there are some custom prolog rules, add them here
+            if (rules != null)
+            {
+                request.Rules = rules;
+            }
 
             var response = await _httpClient.Send(request.ToFormUrlEncodedContent());
 

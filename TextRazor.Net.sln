@@ -1,21 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{901CC973-E0FD-46E1-A5C2-AC7BF117C809}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextRazor.Net", "src\TextRazor.Net\TextRazor.Net.csproj", "{FD48BDA9-F97E-47BA-8EC0-16295AFED0C7}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{62409055-EF15-4D8A-AFE1-BC1F413C4495}"
-	ProjectSection(SolutionItems) = preProject
-		.gitignore = .gitignore
-		global.json = global.json
-		LICENSE = LICENSE
-		README.md = README.md
-	EndProjectSection
-EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "TextRazor.Net", "src\TextRazor.Net\TextRazor.Net.xproj", "{2E801459-82DA-464C-99C0-63F3BF8B6AC9}"
-EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "TextRazor.Net.Tests", "src\TextRazor.Net.Tests\TextRazor.Net.Tests.xproj", "{D78646BE-70C4-4EA9-B657-2F76B688F920}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextRazor.Net.Tests", "src\TextRazor.Net.Tests\TextRazor.Net.Tests.csproj", "{830AF0AF-A478-41AB-B5FE-C4D7B2B7869E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,20 +13,19 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2E801459-82DA-464C-99C0-63F3BF8B6AC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2E801459-82DA-464C-99C0-63F3BF8B6AC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2E801459-82DA-464C-99C0-63F3BF8B6AC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2E801459-82DA-464C-99C0-63F3BF8B6AC9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D78646BE-70C4-4EA9-B657-2F76B688F920}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D78646BE-70C4-4EA9-B657-2F76B688F920}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D78646BE-70C4-4EA9-B657-2F76B688F920}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D78646BE-70C4-4EA9-B657-2F76B688F920}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD48BDA9-F97E-47BA-8EC0-16295AFED0C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD48BDA9-F97E-47BA-8EC0-16295AFED0C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD48BDA9-F97E-47BA-8EC0-16295AFED0C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD48BDA9-F97E-47BA-8EC0-16295AFED0C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{830AF0AF-A478-41AB-B5FE-C4D7B2B7869E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{830AF0AF-A478-41AB-B5FE-C4D7B2B7869E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{830AF0AF-A478-41AB-B5FE-C4D7B2B7869E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{830AF0AF-A478-41AB-B5FE-C4D7B2B7869E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{2E801459-82DA-464C-99C0-63F3BF8B6AC9} = {901CC973-E0FD-46E1-A5C2-AC7BF117C809}
-		{D78646BE-70C4-4EA9-B657-2F76B688F920} = {901CC973-E0FD-46E1-A5C2-AC7BF117C809}
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32014FCE-9041-4FDF-A482-BD67F0F0C121}
 	EndGlobalSection
 EndGlobal
