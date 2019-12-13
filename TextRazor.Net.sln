@@ -7,6 +7,14 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextRazor.Net", "src\TextRa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextRazor.Net.Tests", "src\TextRazor.Net.Tests\TextRazor.Net.Tests.csproj", "{830AF0AF-A478-41AB-B5FE-C4D7B2B7869E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6B190970-2FC0-47CF-8F88-A1DFF6F9B3E8}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		icon.ico = icon.ico
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
